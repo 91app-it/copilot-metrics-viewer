@@ -52,8 +52,13 @@
       },
       "updated_at": "2023-03-31T08:47:39+08:00",
       "pending_cancellation_date": null,
+<<<<<<< Updated upstream
       "last_activity_at": "2024-03-25T17:01:04+08:00",
       "last_activity_editor": "JetBrains/233.11799.303/copilot-intellij/1.4.17.4734"
+=======
+      "last_activity_at": "2024-07-11T15:23:46+08:00",
+      "last_activity_editor": "vscode/1.90.2/copilot/1.211.0"
+>>>>>>> Stashed changes
     },
     {
       "created_at": "2023-03-31T10:55:39+08:00",
@@ -79,8 +84,13 @@
       },
       "updated_at": "2023-03-31T10:56:39+08:00",
       "pending_cancellation_date": null,
+<<<<<<< Updated upstream
       "last_activity_at": "2024-07-02T18:04:28+08:00",
       "last_activity_editor": "vscode/1.85.0/copilot-chat/0.11.1"
+=======
+      "last_activity_at": "2024-07-11T20:26:45+08:00",
+      "last_activity_editor": "vscode/1.85.0/copilot/1.211.0"
+>>>>>>> Stashed changes
     },
     {
       "created_at": "2023-03-31T14:43:47+08:00",
@@ -108,6 +118,7 @@
       "pending_cancellation_date": null,
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "last_activity_at": "2024-07-09T15:53:33+08:00",
       "last_activity_editor": "JetBrains-DB/233.14015.137/"
 =======
@@ -117,6 +128,10 @@
 =======
       "last_activity_at": "2024-07-11T10:30:34+08:00",
       "last_activity_editor": "JetBrains-RD/241.18034.76/"
+>>>>>>> Stashed changes
+=======
+      "last_activity_at": "2024-07-11T16:38:54+08:00",
+      "last_activity_editor": "vscode/1.87.1/copilot/1.211.0"
 >>>>>>> Stashed changes
     },
     {
@@ -197,7 +212,11 @@
       },
       "updated_at": "2023-07-28T11:43:09+08:00",
       "pending_cancellation_date": null,
+<<<<<<< Updated upstream
       "last_activity_at": "2024-07-08T11:54:39+08:00",
+=======
+      "last_activity_at": "2024-07-11T17:52:46+08:00",
+>>>>>>> Stashed changes
       "last_activity_editor": "vscode/1.90.2/copilot/1.211.0"
     },
     {
@@ -226,6 +245,7 @@
       "pending_cancellation_date": null,
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "last_activity_at": "2024-07-09T15:45:49+08:00",
       "last_activity_editor": "vscode/1.90.1/copilot-chat/0.16.1"
 =======
@@ -235,6 +255,10 @@
 =======
       "last_activity_at": "2024-07-11T00:20:17+08:00",
       "last_activity_editor": "JetBrains-DB/241.17011.41/"
+>>>>>>> Stashed changes
+=======
+      "last_activity_at": "2024-07-11T18:18:05+08:00",
+      "last_activity_editor": "vscode/1.90.1/copilot/1.211.978"
 >>>>>>> Stashed changes
     },
     {
@@ -263,11 +287,16 @@
       "pending_cancellation_date": null,
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "last_activity_at": "2024-07-09T15:38:53+08:00",
       "last_activity_editor": "vscode/1.91.0/"
 =======
       "last_activity_at": "2024-07-10T08:29:16+08:00",
       "last_activity_editor": "vscode/1.91.0/copilot/1.211.0"
+>>>>>>> Stashed changes
+=======
+      "last_activity_at": "2024-07-11T09:18:11+08:00",
+      "last_activity_editor": "vscode/1.91.0/"
 >>>>>>> Stashed changes
 =======
       "last_activity_at": "2024-07-11T09:18:11+08:00",
@@ -300,6 +329,7 @@
       "pending_cancellation_date": null,
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "last_activity_at": "2024-07-09T16:20:11+08:00",
       "last_activity_editor": "vscode/1.89.1/copilot/1.211.976"
 =======
@@ -309,6 +339,10 @@
 =======
       "last_activity_at": "2024-07-11T09:51:57+08:00",
       "last_activity_editor": "vscode/1.89.1/"
+>>>>>>> Stashed changes
+=======
+      "last_activity_at": "2024-07-12T07:50:14+08:00",
+      "last_activity_editor": "vscode/1.89.1/copilot/1.211.976"
 >>>>>>> Stashed changes
     },
     {
@@ -337,6 +371,7 @@
       "pending_cancellation_date": null,
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "last_activity_at": "2024-07-09T17:02:51+08:00",
       "last_activity_editor": "JetBrains-RD/233.13135.100/copilot-intellij/1.5.11.5872"
 =======
@@ -345,6 +380,10 @@
 >>>>>>> Stashed changes
 =======
       "last_activity_at": "2024-07-10T17:39:47+08:00",
+      "last_activity_editor": "JetBrains-RD/233.13135.100/copilot-intellij/1.5.11.5872"
+>>>>>>> Stashed changes
+=======
+      "last_activity_at": "2024-07-11T18:46:13+08:00",
       "last_activity_editor": "JetBrains-RD/233.13135.100/copilot-intellij/1.5.11.5872"
 >>>>>>> Stashed changes
     },
@@ -374,6 +413,7 @@
       "pending_cancellation_date": null,
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "last_activity_at": "2024-07-09T16:52:04+08:00",
       "last_activity_editor": "JetBrains-RD/241.17011.166/copilot-intellij/1.5.5.5632"
 =======
@@ -383,6 +423,10 @@
 =======
       "last_activity_at": "2024-07-11T12:13:48+08:00",
       "last_activity_editor": "vscode/1.89.1/"
+>>>>>>> Stashed changes
+=======
+      "last_activity_at": "2024-07-11T17:52:16+08:00",
+      "last_activity_editor": "JetBrains-RD/241.17011.166/"
 >>>>>>> Stashed changes
     },
     {
@@ -411,11 +455,16 @@
       "pending_cancellation_date": null,
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "last_activity_at": "2024-07-09T15:58:40+08:00",
       "last_activity_editor": "vscode/1.88.1/copilot/1.200.0"
 =======
       "last_activity_at": "2024-07-10T12:07:43+08:00",
       "last_activity_editor": "vscode/1.88.1/"
+>>>>>>> Stashed changes
+=======
+      "last_activity_at": "2024-07-10T13:50:19+08:00",
+      "last_activity_editor": "vscode/1.88.1/copilot/1.200.0"
 >>>>>>> Stashed changes
 =======
       "last_activity_at": "2024-07-10T13:50:19+08:00",
@@ -448,10 +497,15 @@
       "pending_cancellation_date": null,
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "last_activity_at": "2024-07-09T13:44:56+08:00",
       "last_activity_editor": "vscode/1.91.0/"
 =======
       "last_activity_at": "2024-07-10T10:16:15+08:00",
+      "last_activity_editor": "vscode/1.91.0/copilot/1.211.0"
+>>>>>>> Stashed changes
+=======
+      "last_activity_at": "2024-07-11T12:05:43+08:00",
       "last_activity_editor": "vscode/1.91.0/copilot/1.211.0"
 >>>>>>> Stashed changes
 =======
@@ -484,10 +538,15 @@
       "updated_at": "2024-05-21T10:12:37+08:00",
       "pending_cancellation_date": null,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "last_activity_at": "2024-07-09T10:25:43+08:00",
       "last_activity_editor": "vscode/1.90.2/copilot/1.211.0"
 =======
       "last_activity_at": "2024-07-10T14:11:17+08:00",
+      "last_activity_editor": "vscode/1.90.2/copilot/1.208.0"
+>>>>>>> Stashed changes
+=======
+      "last_activity_at": "2024-07-11T18:46:04+08:00",
       "last_activity_editor": "vscode/1.90.2/copilot/1.208.0"
 >>>>>>> Stashed changes
     },
@@ -517,8 +576,13 @@
       "pending_cancellation_date": null,
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "last_activity_at": "2024-07-09T15:47:32+08:00",
       "last_activity_editor": "vscode/1.90.2/"
+=======
+      "last_activity_at": "2024-07-10T11:14:39+08:00",
+      "last_activity_editor": "vscode/1.90.2/copilot/1.211.0"
+>>>>>>> Stashed changes
 =======
       "last_activity_at": "2024-07-10T11:14:39+08:00",
       "last_activity_editor": "vscode/1.90.2/copilot/1.211.0"
@@ -581,6 +645,7 @@
       "pending_cancellation_date": null,
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "last_activity_at": "2024-07-09T17:02:42+08:00",
       "last_activity_editor": "VisualStudio/17.8.3/"
 =======
@@ -589,6 +654,10 @@
 >>>>>>> Stashed changes
 =======
       "last_activity_at": "2024-07-11T10:58:45+08:00",
+      "last_activity_editor": "VisualStudio/17.8.3/copilot-vs/1.206.0.0"
+>>>>>>> Stashed changes
+=======
+      "last_activity_at": "2024-07-11T18:11:29+08:00",
       "last_activity_editor": "VisualStudio/17.8.3/copilot-vs/1.206.0.0"
 >>>>>>> Stashed changes
     },
@@ -618,8 +687,13 @@
       "pending_cancellation_date": null,
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "last_activity_at": "2024-07-09T15:44:48+08:00",
       "last_activity_editor": "vscode/1.91.0/copilot/1.209.0"
+=======
+      "last_activity_at": "2024-07-10T09:14:24+08:00",
+      "last_activity_editor": "vscode/1.91.0/copilot/1.211.0"
+>>>>>>> Stashed changes
 =======
       "last_activity_at": "2024-07-10T09:14:24+08:00",
       "last_activity_editor": "vscode/1.91.0/copilot/1.211.0"
@@ -655,6 +729,7 @@
       "pending_cancellation_date": null,
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "last_activity_at": "2024-07-08T17:14:11+08:00",
       "last_activity_editor": "vscode/1.90.2/"
 =======
@@ -663,6 +738,10 @@
 >>>>>>> Stashed changes
 =======
       "last_activity_at": "2024-07-11T09:59:31+08:00",
+      "last_activity_editor": "vscode/1.90.2/copilot/1.211.0"
+>>>>>>> Stashed changes
+=======
+      "last_activity_at": "2024-07-11T19:54:54+08:00",
       "last_activity_editor": "vscode/1.90.2/copilot/1.211.0"
 >>>>>>> Stashed changes
     },
@@ -745,10 +824,15 @@
       "updated_at": "2024-06-10T23:49:00+08:00",
       "pending_cancellation_date": null,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "last_activity_at": "2024-07-09T13:52:04+08:00",
       "last_activity_editor": "vscode/1.91.0/copilot/1.211.0"
 =======
       "last_activity_at": "2024-07-11T08:39:32+08:00",
+      "last_activity_editor": "vscode/1.91.0/"
+>>>>>>> Stashed changes
+=======
+      "last_activity_at": "2024-07-11T17:00:12+08:00",
       "last_activity_editor": "vscode/1.91.0/"
 >>>>>>> Stashed changes
     },
@@ -805,6 +889,7 @@
       "pending_cancellation_date": null,
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "last_activity_at": "2024-07-09T17:02:36+08:00",
       "last_activity_editor": "VisualStudio/17.10.1/copilot-vs/0.2.889.30432"
 =======
@@ -813,6 +898,10 @@
 >>>>>>> Stashed changes
 =======
       "last_activity_at": "2024-07-10T18:22:42+08:00",
+      "last_activity_editor": "VisualStudio/17.9.7/copilot-vs/1.147.0.0"
+>>>>>>> Stashed changes
+=======
+      "last_activity_at": "2024-07-11T18:12:01+08:00",
       "last_activity_editor": "VisualStudio/17.9.7/copilot-vs/1.147.0.0"
 >>>>>>> Stashed changes
     },
@@ -842,6 +931,7 @@
       "pending_cancellation_date": null,
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "last_activity_at": "2024-07-08T19:15:48+08:00",
       "last_activity_editor": "VisualStudio/17.10.3/"
 =======
@@ -850,6 +940,10 @@
 >>>>>>> Stashed changes
 =======
       "last_activity_at": "2024-07-11T12:43:09+08:00",
+      "last_activity_editor": "VisualStudio/17.10.3/copilot-vs/0.2.889.30432"
+>>>>>>> Stashed changes
+=======
+      "last_activity_at": "2024-07-11T18:57:44+08:00",
       "last_activity_editor": "VisualStudio/17.10.3/copilot-vs/0.2.889.30432"
 >>>>>>> Stashed changes
     },
@@ -879,6 +973,7 @@
       "pending_cancellation_date": null,
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "last_activity_at": "2024-07-08T20:00:32+08:00",
       "last_activity_editor": "VisualStudio/17.9.2/copilot-vs/1.147.0.0"
 =======
@@ -887,6 +982,10 @@
 >>>>>>> Stashed changes
 =======
       "last_activity_at": "2024-07-11T11:55:28+08:00",
+      "last_activity_editor": "VisualStudio/17.9.2/copilot-vs/1.147.0.0"
+>>>>>>> Stashed changes
+=======
+      "last_activity_at": "2024-07-11T17:25:44+08:00",
       "last_activity_editor": "VisualStudio/17.9.2/copilot-vs/1.147.0.0"
 >>>>>>> Stashed changes
     },
@@ -916,6 +1015,7 @@
       "pending_cancellation_date": null,
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "last_activity_at": "2024-07-09T16:31:18+08:00",
 =======
       "last_activity_at": "2024-07-10T10:29:59+08:00",
@@ -924,6 +1024,10 @@
 =======
       "last_activity_at": "2024-07-10T16:14:52+08:00",
       "last_activity_editor": "JetBrains-RD/241.18034.76/copilot-intellij/1.5.12.5909"
+>>>>>>> Stashed changes
+=======
+      "last_activity_at": "2024-07-11T17:40:05+08:00",
+      "last_activity_editor": "vscode/1.82.0/"
 >>>>>>> Stashed changes
     },
     {
@@ -952,11 +1056,16 @@
       "pending_cancellation_date": null,
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "last_activity_at": "2024-07-09T16:16:41+08:00",
       "last_activity_editor": "vscode/1.91.0/copilot-chat/0.17.0"
 =======
       "last_activity_at": "2024-07-10T12:43:01+08:00",
       "last_activity_editor": "vscode/1.91.0/copilot/1.211.0"
+>>>>>>> Stashed changes
+=======
+      "last_activity_at": "2024-07-10T17:43:02+08:00",
+      "last_activity_editor": "vscode/1.91.0/"
 >>>>>>> Stashed changes
 =======
       "last_activity_at": "2024-07-10T17:43:02+08:00",
@@ -989,6 +1098,7 @@
       "pending_cancellation_date": null,
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "last_activity_at": "2024-07-09T17:01:47+08:00",
 =======
       "last_activity_at": "2024-07-10T11:56:17+08:00",
@@ -997,6 +1107,10 @@
 =======
       "last_activity_at": "2024-07-11T11:21:03+08:00",
       "last_activity_editor": "visualstudio/17.10.35013.160/copilot-vs-chat/0.2.889.30432"
+>>>>>>> Stashed changes
+=======
+      "last_activity_at": "2024-07-11T19:16:20+08:00",
+      "last_activity_editor": "vscode/1.91.0/"
 >>>>>>> Stashed changes
     },
     {
@@ -1024,10 +1138,15 @@
       "updated_at": "2024-06-28T11:11:19+08:00",
       "pending_cancellation_date": null,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "last_activity_at": "2024-07-09T01:03:50+08:00",
       "last_activity_editor": "vscode/1.91.0/copilot/1.211.0"
 =======
       "last_activity_at": "2024-07-10T18:53:37+08:00",
+      "last_activity_editor": "vscode/1.87.1/copilot/1.211.0"
+>>>>>>> Stashed changes
+=======
+      "last_activity_at": "2024-07-11T18:05:33+08:00",
       "last_activity_editor": "vscode/1.87.1/copilot/1.211.0"
 >>>>>>> Stashed changes
     },
@@ -1057,6 +1176,7 @@
       "pending_cancellation_date": null,
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "last_activity_at": "2024-07-09T14:34:42+08:00",
 =======
       "last_activity_at": "2024-07-10T11:29:10+08:00",
@@ -1065,6 +1185,10 @@
 =======
       "last_activity_at": "2024-07-10T16:10:16+08:00",
       "last_activity_editor": "VisualStudio/17.10.3/"
+>>>>>>> Stashed changes
+=======
+      "last_activity_at": "2024-07-11T18:47:33+08:00",
+      "last_activity_editor": "VisualStudio/17.10.3/copilot-vs/0.2.889.30432"
 >>>>>>> Stashed changes
     },
     {
@@ -1093,6 +1217,7 @@
       "pending_cancellation_date": null,
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "last_activity_at": "2024-07-09T16:03:30+08:00",
       "last_activity_editor": "JetBrains-RD/241.15989.179/copilot-intellij/1.5.14.6008"
 =======
@@ -1102,6 +1227,10 @@
 =======
       "last_activity_at": "2024-07-11T10:03:56+08:00",
       "last_activity_editor": "JetBrains-RD/241.15989.179/copilot-intellij/1.5.14.6008"
+>>>>>>> Stashed changes
+=======
+      "last_activity_at": "2024-07-11T19:00:21+08:00",
+      "last_activity_editor": "JetBrains-RD/241.15989.179/"
 >>>>>>> Stashed changes
     },
     {
@@ -1130,6 +1259,7 @@
       "pending_cancellation_date": null,
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "last_activity_at": "2024-07-09T15:13:32+08:00",
       "last_activity_editor": "VisualStudio/17.10.3/copilot-vs/0.2.889.30432"
 =======
@@ -1139,6 +1269,10 @@
 =======
       "last_activity_at": "2024-07-11T12:07:28+08:00",
       "last_activity_editor": "VisualStudio/17.10.3/"
+>>>>>>> Stashed changes
+=======
+      "last_activity_at": "2024-07-11T19:00:59+08:00",
+      "last_activity_editor": "visualstudio/17.10.35013.160/copilot-vs-chat/0.2.889.30432"
 >>>>>>> Stashed changes
     },
     {
@@ -1167,12 +1301,16 @@
       "pending_cancellation_date": null,
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "last_activity_at": "2024-07-09T11:37:40+08:00",
 =======
       "last_activity_at": "2024-07-10T12:23:38+08:00",
 >>>>>>> Stashed changes
 =======
       "last_activity_at": "2024-07-11T12:04:40+08:00",
+>>>>>>> Stashed changes
+=======
+      "last_activity_at": "2024-07-12T03:37:18+08:00",
 >>>>>>> Stashed changes
       "last_activity_editor": "vscode/1.89.1/copilot/1.211.0"
     },
@@ -1202,6 +1340,7 @@
       "pending_cancellation_date": null,
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "last_activity_at": "2024-07-09T14:58:58+08:00",
       "last_activity_editor": "JetBrains-RD/241.17011.166/copilot-intellij/1.5.11.5872"
 =======
@@ -1211,6 +1350,10 @@
 =======
       "last_activity_at": "2024-07-11T11:25:28+08:00",
       "last_activity_editor": "JetBrains-RD/241.17011.166/copilot-intellij/1.5.12.5909"
+>>>>>>> Stashed changes
+=======
+      "last_activity_at": "2024-07-11T17:29:31+08:00",
+      "last_activity_editor": "JetBrains-RD/241.17011.166/"
 >>>>>>> Stashed changes
     },
     {
@@ -1239,6 +1382,7 @@
       "pending_cancellation_date": null,
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "last_activity_at": "2024-07-09T16:58:36+08:00",
       "last_activity_editor": "visualstudio/17.10.35013.160/copilot-vs-chat/0.2.889.30432"
 =======
@@ -1248,6 +1392,10 @@
 =======
       "last_activity_at": "2024-07-11T12:39:10+08:00",
       "last_activity_editor": "visualstudio/17.10.35013.160/copilot-vs-chat/0.2.889.30432"
+>>>>>>> Stashed changes
+=======
+      "last_activity_at": "2024-07-11T15:00:07+08:00",
+      "last_activity_editor": "VisualStudio/17.10.3/"
 >>>>>>> Stashed changes
     }
   ]
