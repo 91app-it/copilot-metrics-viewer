@@ -133,8 +133,8 @@
       },
       "updated_at": "2023-04-06T16:58:57+08:00",
       "pending_cancellation_date": null,
-      "last_activity_at": "2024-07-17T01:46:37+08:00",
-      "last_activity_editor": "JetBrains-DB/241.17890.24/"
+      "last_activity_at": "2024-07-25T21:09:17+08:00",
+      "last_activity_editor": "JetBrains-RD/241.18034.76/"
     },
     {
       "created_at": "2023-04-10T11:06:09+08:00",
@@ -187,7 +187,7 @@
       },
       "updated_at": "2023-07-28T11:43:09+08:00",
       "pending_cancellation_date": null,
-      "last_activity_at": "2024-07-22T16:16:40+08:00",
+      "last_activity_at": "2024-07-26T12:09:10+08:00",
       "last_activity_editor": "vscode/1.91.1/copilot/1.214.0"
     },
     {
@@ -214,8 +214,8 @@
       },
       "updated_at": "2024-05-20T13:47:12+08:00",
       "pending_cancellation_date": null,
-      "last_activity_at": "2024-07-25T02:25:50+08:00",
-      "last_activity_editor": "VisualStudio/17.10.4/"
+      "last_activity_at": "2024-07-25T16:21:08+08:00",
+      "last_activity_editor": "vscode/1.91.1/copilot-chat/0.17.1"
     },
     {
       "created_at": "2024-05-20T13:49:22+08:00",
@@ -241,8 +241,8 @@
       },
       "updated_at": "2024-05-20T13:50:22+08:00",
       "pending_cancellation_date": null,
-      "last_activity_at": "2024-07-25T09:27:13+08:00",
-      "last_activity_editor": "vscode/1.91.1/"
+      "last_activity_at": "2024-07-25T18:01:39+08:00",
+      "last_activity_editor": "vscode/1.91.1/copilot/1.216.0"
     },
     {
       "created_at": "2024-05-20T17:09:23+08:00",
@@ -295,7 +295,7 @@
       },
       "updated_at": "2024-05-20T17:10:23+08:00",
       "pending_cancellation_date": null,
-      "last_activity_at": "2024-07-25T04:42:33+08:00",
+      "last_activity_at": "2024-07-25T16:42:06+08:00",
       "last_activity_editor": "JetBrains-RD/233.13135.100/copilot-intellij/1.5.11.5872"
     },
     {
@@ -322,8 +322,8 @@
       },
       "updated_at": "2024-05-20T17:10:24+08:00",
       "pending_cancellation_date": null,
-      "last_activity_at": "2024-07-25T11:04:46+08:00",
-      "last_activity_editor": "JetBrains-RD/241.17011.166/copilot-intellij/1.5.16.6140"
+      "last_activity_at": "2024-07-26T12:04:33+08:00",
+      "last_activity_editor": "JetBrains-RD/241.17011.166/"
     },
     {
       "created_at": "2024-05-20T17:09:24+08:00",
@@ -349,7 +349,7 @@
       },
       "updated_at": "2024-05-20T17:10:24+08:00",
       "pending_cancellation_date": null,
-      "last_activity_at": "2024-07-25T12:46:48+08:00",
+      "last_activity_at": "2024-07-26T11:33:33+08:00",
       "last_activity_editor": "vscode/1.88.1/copilot/1.213.0"
     },
     {
@@ -484,8 +484,8 @@
       },
       "updated_at": "2024-05-21T17:43:27+08:00",
       "pending_cancellation_date": null,
-      "last_activity_at": "2024-07-23T18:47:31+08:00",
-      "last_activity_editor": "VisualStudio/17.8.3/copilot-vs/1.206.0.0"
+      "last_activity_at": "2024-07-26T11:59:18+08:00",
+      "last_activity_editor": "vscode/1.89.1/"
     },
     {
       "created_at": "2024-05-22T14:48:37+08:00",
@@ -511,8 +511,8 @@
       },
       "updated_at": "2024-05-22T14:49:37+08:00",
       "pending_cancellation_date": null,
-      "last_activity_at": "2024-07-25T09:28:20+08:00",
-      "last_activity_editor": "vscode/1.91.1/copilot/1.214.0"
+      "last_activity_at": "2024-07-26T10:32:45+08:00",
+      "last_activity_editor": "vscode/1.91.1/copilot/1.216.0"
     },
     {
       "created_at": "2024-05-27T10:49:58+08:00",
@@ -538,8 +538,8 @@
       },
       "updated_at": "2024-05-27T10:50:59+08:00",
       "pending_cancellation_date": null,
-      "last_activity_at": "2024-07-23T17:13:09+08:00",
-      "last_activity_editor": "vscode/1.90.2/copilot/1.214.0"
+      "last_activity_at": "2024-07-26T09:44:03+08:00",
+      "last_activity_editor": "vscode/1.90.2/copilot/1.216.0"
     },
     {
       "created_at": "2024-05-31T09:40:27+08:00",
@@ -592,8 +592,8 @@
       },
       "updated_at": "2024-05-31T09:41:56+08:00",
       "pending_cancellation_date": null,
-      "last_activity_at": "2024-07-06T05:55:21+08:00",
-      "last_activity_editor": "VisualStudio/17.10.1/copilot-vs/0.2.889.30432"
+      "last_activity_at": "2024-07-25T19:14:21+08:00",
+      "last_activity_editor": "vscode/1.91.0/copilot-chat/0.16.1"
     },
     {
       "created_at": "2024-06-10T23:48:00+08:00",
@@ -619,7 +619,7 @@
       },
       "updated_at": "2024-06-10T23:49:00+08:00",
       "pending_cancellation_date": null,
-      "last_activity_at": "2024-07-23T17:17:08+08:00",
+      "last_activity_at": "2024-07-26T10:55:54+08:00",
       "last_activity_editor": "vscode/1.91.1/copilot/1.214.0"
     },
     {
@@ -673,7 +673,7 @@
       },
       "updated_at": "2024-06-24T15:29:36+08:00",
       "pending_cancellation_date": null,
-      "last_activity_at": "2024-07-23T17:04:09+08:00",
+      "last_activity_at": "2024-07-26T11:54:13+08:00",
       "last_activity_editor": "VisualStudio/17.9.7/copilot-vs/1.147.0.0"
     },
     {
@@ -700,7 +700,7 @@
       },
       "updated_at": "2024-06-28T11:11:18+08:00",
       "pending_cancellation_date": null,
-      "last_activity_at": "2024-07-23T16:48:47+08:00",
+      "last_activity_at": "2024-07-26T10:50:39+08:00",
       "last_activity_editor": "VisualStudio/17.10.3/copilot-vs/0.2.889.30432"
     },
     {
@@ -727,8 +727,8 @@
       },
       "updated_at": "2024-06-28T11:11:18+08:00",
       "pending_cancellation_date": null,
-      "last_activity_at": "2024-07-24T14:27:51+08:00",
-      "last_activity_editor": "vscode/1.87.0/copilot/1.214.0"
+      "last_activity_at": "2024-07-26T11:57:31+08:00",
+      "last_activity_editor": "vscode/1.87.0/copilot/1.218.0"
     },
     {
       "created_at": "2024-06-28T11:10:18+08:00",
@@ -808,8 +808,8 @@
       },
       "updated_at": "2024-06-28T11:11:19+08:00",
       "pending_cancellation_date": null,
-      "last_activity_at": "2024-07-23T13:58:57+08:00",
-      "last_activity_editor": "vscode/1.91.0/copilot/1.214.0"
+      "last_activity_at": "2024-07-26T02:48:50+08:00",
+      "last_activity_editor": "JetBrains-RD/233.14015.60/"
     },
     {
       "created_at": "2024-06-28T11:10:19+08:00",
@@ -835,8 +835,8 @@
       },
       "updated_at": "2024-06-28T11:11:19+08:00",
       "pending_cancellation_date": null,
-      "last_activity_at": "2024-07-23T14:14:46+08:00",
-      "last_activity_editor": "visualstudio/17.10.35013.160/copilot-vs-chat/0.2.889.30432"
+      "last_activity_at": "2024-07-25T17:39:38+08:00",
+      "last_activity_editor": "VisualStudio/17.10.3/"
     },
     {
       "created_at": "2024-06-28T11:10:19+08:00",
@@ -862,8 +862,8 @@
       },
       "updated_at": "2024-06-28T11:11:19+08:00",
       "pending_cancellation_date": null,
-      "last_activity_at": "2024-07-24T23:02:28+08:00",
-      "last_activity_editor": "vscode/1.91.1/copilot-chat/0.17.1"
+      "last_activity_at": "2024-07-26T10:51:47+08:00",
+      "last_activity_editor": "vscode/1.91.1/copilot/1.214.0"
     },
     {
       "created_at": "2024-06-28T11:10:19+08:00",
@@ -916,8 +916,8 @@
       },
       "updated_at": "2024-06-28T11:11:20+08:00",
       "pending_cancellation_date": null,
-      "last_activity_at": "2024-07-24T14:35:25+08:00",
-      "last_activity_editor": "visualstudio/17.10.35027.167/copilot-vs-chat/0.2.889.30432"
+      "last_activity_at": "2024-07-26T11:22:05+08:00",
+      "last_activity_editor": "VisualStudio/17.10.4/"
     },
     {
       "created_at": "2024-07-02T16:19:20+08:00",
@@ -943,8 +943,8 @@
       },
       "updated_at": "2024-07-02T16:20:20+08:00",
       "pending_cancellation_date": null,
-      "last_activity_at": "2024-07-23T16:57:30+08:00",
-      "last_activity_editor": "vscode/1.89.1/"
+      "last_activity_at": "2024-07-26T12:05:34+08:00",
+      "last_activity_editor": "vscode/1.89.1/copilot/1.214.0"
     },
     {
       "created_at": "2024-07-02T16:20:46+08:00",
@@ -970,7 +970,7 @@
       },
       "updated_at": "2024-07-02T16:21:46+08:00",
       "pending_cancellation_date": null,
-      "last_activity_at": "2024-07-23T18:23:17+08:00",
+      "last_activity_at": "2024-07-26T12:48:27+08:00",
       "last_activity_editor": "JetBrains-RD/241.17011.166/copilot-intellij/1.5.14.6008"
     },
     {
@@ -997,7 +997,7 @@
       },
       "updated_at": "2024-07-05T11:17:46+08:00",
       "pending_cancellation_date": null,
-      "last_activity_at": "2024-07-24T17:38:20+08:00",
+      "last_activity_at": "2024-07-25T23:58:44+08:00",
       "last_activity_editor": "VisualStudio/17.10.3/"
     }
   ]
