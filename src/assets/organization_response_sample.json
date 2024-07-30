@@ -1,153 +1,5 @@
 [
   {
-    "day": "2024-07-01",
-    "total_suggestions_count": 864,
-    "total_acceptances_count": 237,
-    "total_lines_suggested": 1833,
-    "total_lines_accepted": 337,
-    "total_active_users": 16,
-    "total_chat_acceptances": 1,
-    "total_chat_turns": 14,
-    "total_active_chat_users": 4,
-    "breakdown": [
-      {
-        "language": "typescriptreact",
-        "editor": "vscode",
-        "suggestions_count": 275,
-        "acceptances_count": 95,
-        "lines_suggested": 629,
-        "lines_accepted": 126,
-        "active_users": 3
-      },
-      {
-        "language": "unknown",
-        "editor": "vscode",
-        "suggestions_count": 9,
-        "acceptances_count": 1,
-        "lines_suggested": 10,
-        "lines_accepted": 1,
-        "active_users": 2
-      },
-      {
-        "language": "c#",
-        "editor": "vscode",
-        "suggestions_count": 2,
-        "acceptances_count": 0,
-        "lines_suggested": 2,
-        "lines_accepted": 0,
-        "active_users": 1
-      },
-      {
-        "language": "typescript",
-        "editor": "vscode",
-        "suggestions_count": 25,
-        "acceptances_count": 9,
-        "lines_suggested": 26,
-        "lines_accepted": 3,
-        "active_users": 3
-      },
-      {
-        "language": "markdown",
-        "editor": "vscode",
-        "suggestions_count": 35,
-        "acceptances_count": 10,
-        "lines_suggested": 43,
-        "lines_accepted": 10,
-        "active_users": 2
-      },
-      {
-        "language": "hcl",
-        "editor": "vscode",
-        "suggestions_count": 4,
-        "acceptances_count": 0,
-        "lines_suggested": 4,
-        "lines_accepted": 0,
-        "active_users": 1
-      },
-      {
-        "language": "json",
-        "editor": "vscode",
-        "suggestions_count": 12,
-        "acceptances_count": 0,
-        "lines_suggested": 14,
-        "lines_accepted": 0,
-        "active_users": 1
-      },
-      {
-        "language": "c#",
-        "editor": "visual_studio",
-        "suggestions_count": 162,
-        "acceptances_count": 48,
-        "lines_suggested": 356,
-        "lines_accepted": 58,
-        "active_users": 5
-      },
-      {
-        "language": "unknown",
-        "editor": "jetbrains",
-        "suggestions_count": 1,
-        "acceptances_count": 0,
-        "lines_suggested": 1,
-        "lines_accepted": 0,
-        "active_users": 1
-      },
-      {
-        "language": "javascript",
-        "editor": "jetbrains",
-        "suggestions_count": 6,
-        "acceptances_count": 2,
-        "lines_suggested": 13,
-        "lines_accepted": 3,
-        "active_users": 2
-      },
-      {
-        "language": "c#",
-        "editor": "jetbrains",
-        "suggestions_count": 274,
-        "acceptances_count": 60,
-        "lines_suggested": 644,
-        "lines_accepted": 120,
-        "active_users": 5
-      },
-      {
-        "language": "sql",
-        "editor": "jetbrains",
-        "suggestions_count": 17,
-        "acceptances_count": 2,
-        "lines_suggested": 25,
-        "lines_accepted": 2,
-        "active_users": 2
-      },
-      {
-        "language": "json",
-        "editor": "jetbrains",
-        "suggestions_count": 28,
-        "acceptances_count": 3,
-        "lines_suggested": 47,
-        "lines_accepted": 8,
-        "active_users": 3
-      },
-      {
-        "language": "yaml",
-        "editor": "jetbrains",
-        "suggestions_count": 4,
-        "acceptances_count": 1,
-        "lines_suggested": 8,
-        "lines_accepted": 1,
-        "active_users": 2
-      },
-      {
-        "language": "tsql",
-        "editor": "jetbrains",
-        "suggestions_count": 10,
-        "acceptances_count": 6,
-        "lines_suggested": 11,
-        "lines_accepted": 5,
-        "active_users": 2
-      }
-    ]
-  },
-  {
     "day": "2024-07-02",
     "total_suggestions_count": 403,
     "total_acceptances_count": 80,
@@ -4210,6 +4062,172 @@
         "suggestions_count": 16,
         "acceptances_count": 1,
         "lines_suggested": 38,
+        "lines_accepted": 1,
+        "active_users": 2
+      }
+    ]
+  },
+  {
+    "day": "2024-07-29",
+    "total_suggestions_count": 1148,
+    "total_acceptances_count": 395,
+    "total_lines_suggested": 2730,
+    "total_lines_accepted": 787,
+    "total_active_users": 17,
+    "total_chat_acceptances": 20,
+    "total_chat_turns": 62,
+    "total_active_chat_users": 5,
+    "breakdown": [
+      {
+        "language": "typescriptreact",
+        "editor": "vscode",
+        "suggestions_count": 66,
+        "acceptances_count": 24,
+        "lines_suggested": 145,
+        "lines_accepted": 50,
+        "active_users": 2
+      },
+      {
+        "language": "unknown",
+        "editor": "vscode",
+        "suggestions_count": 3,
+        "acceptances_count": 0,
+        "lines_suggested": 4,
+        "lines_accepted": 0,
+        "active_users": 1
+      },
+      {
+        "language": "javascript",
+        "editor": "vscode",
+        "suggestions_count": 18,
+        "acceptances_count": 4,
+        "lines_suggested": 26,
+        "lines_accepted": 1,
+        "active_users": 2
+      },
+      {
+        "language": "c#",
+        "editor": "vscode",
+        "suggestions_count": 6,
+        "acceptances_count": 1,
+        "lines_suggested": 9,
+        "lines_accepted": 2,
+        "active_users": 2
+      },
+      {
+        "language": "xml",
+        "editor": "vscode",
+        "suggestions_count": 1,
+        "acceptances_count": 0,
+        "lines_suggested": 1,
+        "lines_accepted": 0,
+        "active_users": 1
+      },
+      {
+        "language": "typescript",
+        "editor": "vscode",
+        "suggestions_count": 160,
+        "acceptances_count": 47,
+        "lines_suggested": 216,
+        "lines_accepted": 36,
+        "active_users": 2
+      },
+      {
+        "language": "html",
+        "editor": "vscode",
+        "suggestions_count": 1,
+        "acceptances_count": 1,
+        "lines_suggested": 1,
+        "lines_accepted": 1,
+        "active_users": 2
+      },
+      {
+        "language": "json",
+        "editor": "vscode",
+        "suggestions_count": 16,
+        "acceptances_count": 1,
+        "lines_suggested": 28,
+        "lines_accepted": 1,
+        "active_users": 2
+      },
+      {
+        "language": "yaml",
+        "editor": "vscode",
+        "suggestions_count": 6,
+        "acceptances_count": 0,
+        "lines_suggested": 11,
+        "lines_accepted": 0,
+        "active_users": 1
+      },
+      {
+        "language": "unknown",
+        "editor": "visual_studio",
+        "suggestions_count": 19,
+        "acceptances_count": 3,
+        "lines_suggested": 227,
+        "lines_accepted": 120,
+        "active_users": 2
+      },
+      {
+        "language": "c#",
+        "editor": "visual_studio",
+        "suggestions_count": 356,
+        "acceptances_count": 129,
+        "lines_suggested": 573,
+        "lines_accepted": 208,
+        "active_users": 7
+      },
+      {
+        "language": "c#",
+        "editor": "jetbrains",
+        "suggestions_count": 331,
+        "acceptances_count": 110,
+        "lines_suggested": 952,
+        "lines_accepted": 185,
+        "active_users": 6
+      },
+      {
+        "language": "markdown",
+        "editor": "jetbrains",
+        "suggestions_count": 145,
+        "acceptances_count": 74,
+        "lines_suggested": 487,
+        "lines_accepted": 182,
+        "active_users": 2
+      },
+      {
+        "language": "sql",
+        "editor": "jetbrains",
+        "suggestions_count": 5,
+        "acceptances_count": 0,
+        "lines_suggested": 5,
+        "lines_accepted": 0,
+        "active_users": 1
+      },
+      {
+        "language": "json",
+        "editor": "jetbrains",
+        "suggestions_count": 6,
+        "acceptances_count": 0,
+        "lines_suggested": 35,
+        "lines_accepted": 0,
+        "active_users": 1
+      },
+      {
+        "language": "yaml",
+        "editor": "jetbrains",
+        "suggestions_count": 1,
+        "acceptances_count": 0,
+        "lines_suggested": 1,
+        "lines_accepted": 0,
+        "active_users": 1
+      },
+      {
+        "language": "dotenv",
+        "editor": "jetbrains",
+        "suggestions_count": 8,
+        "acceptances_count": 1,
+        "lines_suggested": 9,
         "lines_accepted": 1,
         "active_users": 2
       }

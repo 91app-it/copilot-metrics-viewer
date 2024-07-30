@@ -1,5 +1,5 @@
 {
-  "total_seats": 37,
+  "total_seats": 38,
   "seats": [
     {
       "created_at": "2023-03-29T11:58:26+08:00",
@@ -106,7 +106,7 @@
       },
       "updated_at": "2023-03-31T14:44:47+08:00",
       "pending_cancellation_date": null,
-      "last_activity_at": "2024-07-26T19:08:59+08:00",
+      "last_activity_at": "2024-07-30T11:56:21+08:00",
       "last_activity_editor": "JetBrains-RD/241.18034.76/copilot-intellij/1.5.15.6094"
     },
     {
@@ -214,8 +214,8 @@
       },
       "updated_at": "2024-05-20T13:47:12+08:00",
       "pending_cancellation_date": null,
-      "last_activity_at": "2024-07-25T16:21:08+08:00",
-      "last_activity_editor": "vscode/1.91.1/copilot-chat/0.17.1"
+      "last_activity_at": "2024-07-29T18:07:13+08:00",
+      "last_activity_editor": "vscode/1.91.1/copilot/1.218.0"
     },
     {
       "created_at": "2024-05-20T13:49:22+08:00",
@@ -241,8 +241,8 @@
       },
       "updated_at": "2024-05-20T13:50:22+08:00",
       "pending_cancellation_date": null,
-      "last_activity_at": "2024-07-26T16:41:39+08:00",
-      "last_activity_editor": "vscode/1.91.1/"
+      "last_activity_at": "2024-07-30T11:40:57+08:00",
+      "last_activity_editor": "vscode/1.91.1/copilot/1.219.0"
     },
     {
       "created_at": "2024-05-20T17:09:23+08:00",
@@ -295,8 +295,8 @@
       },
       "updated_at": "2024-05-20T17:10:23+08:00",
       "pending_cancellation_date": null,
-      "last_activity_at": "2024-07-29T11:20:00+08:00",
-      "last_activity_editor": "JetBrains-RD/233.13135.100/"
+      "last_activity_at": "2024-07-30T10:13:54+08:00",
+      "last_activity_editor": "JetBrains-RD/233.13135.100/copilot-intellij/1.5.11.5872"
     },
     {
       "created_at": "2024-05-20T17:09:23+08:00",
@@ -322,7 +322,7 @@
       },
       "updated_at": "2024-05-20T17:10:24+08:00",
       "pending_cancellation_date": null,
-      "last_activity_at": "2024-07-29T12:10:16+08:00",
+      "last_activity_at": "2024-07-30T11:53:18+08:00",
       "last_activity_editor": "JetBrains-RD/241.17011.166/copilot-intellij/1.5.16.6140"
     },
     {
@@ -349,8 +349,8 @@
       },
       "updated_at": "2024-05-20T17:10:24+08:00",
       "pending_cancellation_date": null,
-      "last_activity_at": "2024-07-29T09:58:15+08:00",
-      "last_activity_editor": "vscode/1.88.1/copilot-chat/0.14.1"
+      "last_activity_at": "2024-07-30T12:02:47+08:00",
+      "last_activity_editor": "vscode/1.88.1/"
     },
     {
       "created_at": "2024-05-20T17:09:24+08:00",
@@ -484,7 +484,7 @@
       },
       "updated_at": "2024-05-21T17:43:27+08:00",
       "pending_cancellation_date": null,
-      "last_activity_at": "2024-07-29T12:11:57+08:00",
+      "last_activity_at": "2024-07-29T19:00:32+08:00",
       "last_activity_editor": "VisualStudio/17.8.3/copilot-vs/1.206.0.0"
     },
     {
@@ -511,8 +511,8 @@
       },
       "updated_at": "2024-05-22T14:49:37+08:00",
       "pending_cancellation_date": null,
-      "last_activity_at": "2024-07-26T10:32:45+08:00",
-      "last_activity_editor": "vscode/1.91.1/copilot/1.216.0"
+      "last_activity_at": "2024-07-30T09:51:31+08:00",
+      "last_activity_editor": "vscode/1.91.1/copilot/1.214.0"
     },
     {
       "created_at": "2024-05-27T10:49:58+08:00",
@@ -538,8 +538,8 @@
       },
       "updated_at": "2024-05-27T10:50:59+08:00",
       "pending_cancellation_date": null,
-      "last_activity_at": "2024-07-29T01:53:54+08:00",
-      "last_activity_editor": "vscode/1.90.2/copilot/1.218.0"
+      "last_activity_at": "2024-07-29T17:56:21+08:00",
+      "last_activity_editor": "vscode/1.90.2/copilot/1.219.0"
     },
     {
       "created_at": "2024-05-31T09:40:27+08:00",
@@ -619,8 +619,8 @@
       },
       "updated_at": "2024-06-10T23:49:00+08:00",
       "pending_cancellation_date": null,
-      "last_activity_at": "2024-07-26T14:27:17+08:00",
-      "last_activity_editor": "vscode/1.91.1/"
+      "last_activity_at": "2024-07-30T11:43:59+08:00",
+      "last_activity_editor": "vscode/1.91.1/copilot/1.219.0"
     },
     {
       "created_at": "2024-06-17T15:17:59+08:00",
@@ -673,7 +673,7 @@
       },
       "updated_at": "2024-06-24T15:29:36+08:00",
       "pending_cancellation_date": null,
-      "last_activity_at": "2024-07-26T13:10:23+08:00",
+      "last_activity_at": "2024-07-29T14:49:43+08:00",
       "last_activity_editor": "VisualStudio/17.9.7/copilot-vs/1.147.0.0"
     },
     {
@@ -700,7 +700,7 @@
       },
       "updated_at": "2024-06-28T11:11:18+08:00",
       "pending_cancellation_date": null,
-      "last_activity_at": "2024-07-29T10:21:00+08:00",
+      "last_activity_at": "2024-07-30T11:58:16+08:00",
       "last_activity_editor": "VisualStudio/17.10.3/copilot-vs/0.2.889.30432"
     },
     {
@@ -727,8 +727,8 @@
       },
       "updated_at": "2024-06-28T11:11:18+08:00",
       "pending_cancellation_date": null,
-      "last_activity_at": "2024-07-29T12:07:12+08:00",
-      "last_activity_editor": "VisualStudio/17.9.2/copilot-vs/1.147.0.0"
+      "last_activity_at": "2024-07-30T11:51:20+08:00",
+      "last_activity_editor": "vscode/1.87.0/copilot-chat/0.13.1"
     },
     {
       "created_at": "2024-06-28T11:10:18+08:00",
@@ -754,7 +754,7 @@
       },
       "updated_at": "2024-06-28T11:11:19+08:00",
       "pending_cancellation_date": null,
-      "last_activity_at": "2024-07-26T23:06:39+08:00",
+      "last_activity_at": "2024-07-30T11:24:23+08:00",
       "last_activity_editor": "JetBrains-RD/241.18034.76/copilot-intellij/1.5.12.5909"
     },
     {
@@ -781,8 +781,8 @@
       },
       "updated_at": "2024-06-28T11:11:19+08:00",
       "pending_cancellation_date": null,
-      "last_activity_at": "2024-07-18T19:06:33+08:00",
-      "last_activity_editor": "vscode/1.91.1/"
+      "last_activity_at": "2024-07-30T12:31:23+08:00",
+      "last_activity_editor": "vscode/1.91.0/copilot/1.219.0"
     },
     {
       "created_at": "2024-06-28T11:10:19+08:00",
@@ -808,8 +808,8 @@
       },
       "updated_at": "2024-06-28T11:11:19+08:00",
       "pending_cancellation_date": null,
-      "last_activity_at": "2024-07-29T02:10:44+08:00",
-      "last_activity_editor": "VisualStudio/17.10.3/copilot-vs/0.2.889.30432"
+      "last_activity_at": "2024-07-30T11:01:53+08:00",
+      "last_activity_editor": "JetBrains-RD/233.14015.60/copilot-intellij/1.5.12.5909"
     },
     {
       "created_at": "2024-06-28T11:10:19+08:00",
@@ -835,8 +835,8 @@
       },
       "updated_at": "2024-06-28T11:11:19+08:00",
       "pending_cancellation_date": null,
-      "last_activity_at": "2024-07-29T09:56:06+08:00",
-      "last_activity_editor": "vscode/1.87.1/"
+      "last_activity_at": "2024-07-29T19:07:24+08:00",
+      "last_activity_editor": "vscode/1.87.1/copilot/1.219.0"
     },
     {
       "created_at": "2024-06-28T11:10:19+08:00",
@@ -862,8 +862,8 @@
       },
       "updated_at": "2024-06-28T11:11:19+08:00",
       "pending_cancellation_date": null,
-      "last_activity_at": "2024-07-26T10:51:47+08:00",
-      "last_activity_editor": "vscode/1.91.1/copilot/1.214.0"
+      "last_activity_at": "2024-07-29T18:03:18+08:00",
+      "last_activity_editor": "VisualStudio/17.10.3/"
     },
     {
       "created_at": "2024-06-28T11:10:19+08:00",
@@ -889,8 +889,8 @@
       },
       "updated_at": "2024-06-28T11:11:20+08:00",
       "pending_cancellation_date": null,
-      "last_activity_at": "2024-07-29T12:26:04+08:00",
-      "last_activity_editor": "JetBrains-RD/241.15989.179/"
+      "last_activity_at": "2024-07-30T12:11:23+08:00",
+      "last_activity_editor": "JetBrains-RD/241.15989.179/copilot-intellij/1.5.16.6140"
     },
     {
       "created_at": "2024-06-28T11:10:19+08:00",
@@ -916,8 +916,8 @@
       },
       "updated_at": "2024-06-28T11:11:20+08:00",
       "pending_cancellation_date": null,
-      "last_activity_at": "2024-07-29T12:05:06+08:00",
-      "last_activity_editor": "VisualStudio/17.10.4/copilot-vs/0.2.889.30432"
+      "last_activity_at": "2024-07-30T11:39:00+08:00",
+      "last_activity_editor": "visualstudio/17.10.35027.167/copilot-vs-chat/0.2.889.30432"
     },
     {
       "created_at": "2024-07-02T16:19:20+08:00",
@@ -943,8 +943,8 @@
       },
       "updated_at": "2024-07-02T16:20:20+08:00",
       "pending_cancellation_date": null,
-      "last_activity_at": "2024-07-27T22:26:12+08:00",
-      "last_activity_editor": "vscode/1.89.1/copilot/1.214.0"
+      "last_activity_at": "2024-07-30T11:31:00+08:00",
+      "last_activity_editor": "vscode/1.89.1/"
     },
     {
       "created_at": "2024-07-02T16:20:46+08:00",
@@ -970,8 +970,8 @@
       },
       "updated_at": "2024-07-02T16:21:46+08:00",
       "pending_cancellation_date": null,
-      "last_activity_at": "2024-07-26T17:32:10+08:00",
-      "last_activity_editor": "JetBrains-RD/241.17011.166/copilot-intellij/1.5.14.6008"
+      "last_activity_at": "2024-07-30T11:55:12+08:00",
+      "last_activity_editor": "JetBrains-RD/241.17011.166/"
     },
     {
       "created_at": "2024-07-05T11:16:46+08:00",
@@ -997,8 +997,35 @@
       },
       "updated_at": "2024-07-05T11:17:46+08:00",
       "pending_cancellation_date": null,
-      "last_activity_at": "2024-07-26T19:08:36+08:00",
-      "last_activity_editor": "vscode/1.91.1/"
+      "last_activity_at": "2024-07-29T21:49:30+08:00",
+      "last_activity_editor": "VisualStudio/17.10.3/copilot-vs/0.2.889.30432"
+    },
+    {
+      "created_at": "2024-07-29T17:29:47+08:00",
+      "assignee": {
+        "login": "DungHan",
+        "id": 57517532,
+        "node_id": "MDQ6VXNlcjU3NTE3NTMy",
+        "avatar_url": "https://avatars.githubusercontent.com/u/57517532?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/DungHan",
+        "html_url": "https://github.com/DungHan",
+        "followers_url": "https://api.github.com/users/DungHan/followers",
+        "following_url": "https://api.github.com/users/DungHan/following{/other_user}",
+        "gists_url": "https://api.github.com/users/DungHan/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/DungHan/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/DungHan/subscriptions",
+        "organizations_url": "https://api.github.com/users/DungHan/orgs",
+        "repos_url": "https://api.github.com/users/DungHan/repos",
+        "events_url": "https://api.github.com/users/DungHan/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/DungHan/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "updated_at": "2024-07-29T17:30:47+08:00",
+      "pending_cancellation_date": null,
+      "last_activity_at": "2024-07-30T11:56:37+08:00",
+      "last_activity_editor": "VisualStudio/17.10.4/copilot-vs/0.2.889.30432"
     }
   ]
 }
