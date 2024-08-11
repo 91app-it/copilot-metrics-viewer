@@ -1,63 +1,5 @@
 [
   {
-    "day": "2024-07-13",
-    "total_suggestions_count": 234,
-    "total_acceptances_count": 90,
-    "total_lines_suggested": 477,
-    "total_lines_accepted": 225,
-    "total_active_users": 4,
-    "total_chat_acceptances": 4,
-    "total_chat_turns": 10,
-    "total_active_chat_users": 4,
-    "breakdown": [
-      {
-        "language": "typescriptreact",
-        "editor": "vscode",
-        "suggestions_count": 122,
-        "acceptances_count": 35,
-        "lines_suggested": 243,
-        "lines_accepted": 74,
-        "active_users": 2
-      },
-      {
-        "language": "python",
-        "editor": "vscode",
-        "suggestions_count": 31,
-        "acceptances_count": 8,
-        "lines_suggested": 42,
-        "lines_accepted": 5,
-        "active_users": 2
-      },
-      {
-        "language": "typescript",
-        "editor": "vscode",
-        "suggestions_count": 28,
-        "acceptances_count": 11,
-        "lines_suggested": 32,
-        "lines_accepted": 4,
-        "active_users": 2
-      },
-      {
-        "language": "c#",
-        "editor": "visual_studio",
-        "suggestions_count": 46,
-        "acceptances_count": 36,
-        "lines_suggested": 153,
-        "lines_accepted": 142,
-        "active_users": 2
-      },
-      {
-        "language": "sql",
-        "editor": "jetbrains",
-        "suggestions_count": 7,
-        "acceptances_count": 0,
-        "lines_suggested": 7,
-        "lines_accepted": 0,
-        "active_users": 1
-      }
-    ]
-  },
-  {
     "day": "2024-07-14",
     "total_suggestions_count": 168,
     "total_acceptances_count": 57,
@@ -4275,6 +4217,28 @@
         "lines_suggested": 1,
         "lines_accepted": 0,
         "active_users": 1
+      }
+    ]
+  },
+  {
+    "day": "2024-08-10",
+    "total_suggestions_count": 96,
+    "total_acceptances_count": 31,
+    "total_lines_suggested": 548,
+    "total_lines_accepted": 222,
+    "total_active_users": 2,
+    "total_chat_acceptances": 0,
+    "total_chat_turns": 3,
+    "total_active_chat_users": 1,
+    "breakdown": [
+      {
+        "language": "c#",
+        "editor": "jetbrains",
+        "suggestions_count": 96,
+        "acceptances_count": 31,
+        "lines_suggested": 548,
+        "lines_accepted": 222,
+        "active_users": 2
       }
     ]
   }

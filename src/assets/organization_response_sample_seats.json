@@ -214,8 +214,8 @@
       },
       "updated_at": "2024-05-20T13:47:12+08:00",
       "pending_cancellation_date": null,
-      "last_activity_at": "2024-08-10T10:53:39+08:00",
-      "last_activity_editor": "JetBrains-RD/221.5591.20/copilot-chat-ide/1.4.6.4092"
+      "last_activity_at": "2024-08-10T17:16:42+08:00",
+      "last_activity_editor": "JetBrains-RD/221.5591.20/copilot-intellij/1.4.6.4092"
     },
     {
       "created_at": "2024-05-20T13:49:22+08:00",
@@ -916,8 +916,8 @@
       },
       "updated_at": "2024-06-28T11:11:20+08:00",
       "pending_cancellation_date": null,
-      "last_activity_at": "2024-08-09T19:27:22+08:00",
-      "last_activity_editor": "VisualStudio/17.10.4/copilot-vs/0.2.889.30432"
+      "last_activity_at": "2024-08-10T21:36:53+08:00",
+      "last_activity_editor": "visualstudio/17.10.35027.167/copilot-vs-chat/0.2.889.30432"
     },
     {
       "created_at": "2024-07-02T16:19:20+08:00",
