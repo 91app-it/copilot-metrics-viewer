@@ -1,27 +1,5 @@
 [
   {
-    "day": "2024-08-10",
-    "total_suggestions_count": 96,
-    "total_acceptances_count": 31,
-    "total_lines_suggested": 548,
-    "total_lines_accepted": 222,
-    "total_active_users": 2,
-    "total_chat_acceptances": 0,
-    "total_chat_turns": 3,
-    "total_active_chat_users": 1,
-    "breakdown": [
-      {
-        "language": "c#",
-        "editor": "jetbrains",
-        "suggestions_count": 96,
-        "acceptances_count": 31,
-        "lines_suggested": 548,
-        "lines_accepted": 222,
-        "active_users": 2
-      }
-    ]
-  },
-  {
     "day": "2024-08-11",
     "total_suggestions_count": 41,
     "total_acceptances_count": 8,
@@ -4372,6 +4350,46 @@
         "suggestions_count": 3,
         "acceptances_count": 0,
         "lines_suggested": 36,
+        "lines_accepted": 0,
+        "active_users": 1
+      }
+    ]
+  },
+  {
+    "day": "2024-09-07",
+    "total_suggestions_count": 85,
+    "total_acceptances_count": 24,
+    "total_lines_suggested": 228,
+    "total_lines_accepted": 54,
+    "total_active_users": 3,
+    "total_chat_acceptances": 0,
+    "total_chat_turns": 0,
+    "total_active_chat_users": 0,
+    "breakdown": [
+      {
+        "language": "razor",
+        "editor": "visual_studio",
+        "suggestions_count": 63,
+        "acceptances_count": 22,
+        "lines_suggested": 184,
+        "lines_accepted": 45,
+        "active_users": 2
+      },
+      {
+        "language": "c#",
+        "editor": "visual_studio",
+        "suggestions_count": 6,
+        "acceptances_count": 2,
+        "lines_suggested": 22,
+        "lines_accepted": 9,
+        "active_users": 3
+      },
+      {
+        "language": "javascript",
+        "editor": "jetbrains",
+        "suggestions_count": 16,
+        "acceptances_count": 0,
+        "lines_suggested": 22,
         "lines_accepted": 0,
         "active_users": 1
       }
