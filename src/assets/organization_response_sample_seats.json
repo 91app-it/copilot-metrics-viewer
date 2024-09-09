@@ -1,5 +1,5 @@
 {
-  "total_seats": 46,
+  "total_seats": 45,
   "seats": [
     {
       "created_at": "2023-03-29T11:58:26+08:00",
@@ -106,7 +106,7 @@
       },
       "updated_at": "2023-03-31T14:44:47+08:00",
       "pending_cancellation_date": null,
-      "last_activity_at": "2024-09-06T18:21:02+08:00",
+      "last_activity_at": "2024-09-09T12:02:43+08:00",
       "last_activity_editor": "JetBrains-RD/241.18034.76/copilot-intellij/1.5.15.6094"
     },
     {
@@ -160,7 +160,7 @@
       },
       "updated_at": "2023-04-10T11:07:14+08:00",
       "pending_cancellation_date": null,
-      "last_activity_at": "2024-09-06T19:14:09+08:00",
+      "last_activity_at": "2024-09-09T11:22:03+08:00",
       "last_activity_editor": "JetBrains-AI/231.9392.1.2311.11076708/copilot-intellij/1.2.4.2459"
     },
     {
@@ -187,8 +187,8 @@
       },
       "updated_at": "2023-07-28T11:43:09+08:00",
       "pending_cancellation_date": null,
-      "last_activity_at": "2024-09-04T17:45:56+08:00",
-      "last_activity_editor": "vscode/1.92.2/copilot/1.223.0"
+      "last_activity_at": "2024-09-09T10:40:16+08:00",
+      "last_activity_editor": "vscode/1.92.2/copilot/1.229.0"
     },
     {
       "created_at": "2024-05-20T13:46:12+08:00",
@@ -295,8 +295,8 @@
       },
       "updated_at": "2024-05-20T17:10:23+08:00",
       "pending_cancellation_date": null,
-      "last_activity_at": "2024-09-06T00:15:49+08:00",
-      "last_activity_editor": "vscode/1.92.1/copilot/1.228.0"
+      "last_activity_at": "2024-09-09T11:31:31+08:00",
+      "last_activity_editor": "JetBrains-RD/233.13135.100/copilot-intellij/1.5.11.5872"
     },
     {
       "created_at": "2024-05-20T17:09:23+08:00",
@@ -376,8 +376,8 @@
       },
       "updated_at": "2024-05-20T17:10:24+08:00",
       "pending_cancellation_date": null,
-      "last_activity_at": "2024-09-03T18:26:31+08:00",
-      "last_activity_editor": "vscode/1.92.2/copilot/1.224.0"
+      "last_activity_at": "2024-09-09T03:51:32+08:00",
+      "last_activity_editor": "vscode/1.92.2/"
     },
     {
       "created_at": "2024-05-20T17:09:24+08:00",
@@ -430,8 +430,8 @@
       },
       "updated_at": "2024-05-21T14:58:42+08:00",
       "pending_cancellation_date": null,
-      "last_activity_at": "2024-09-05T11:48:31+08:00",
-      "last_activity_editor": "vscode/1.92.0/copilot/1.223.0"
+      "last_activity_at": "2024-09-09T03:56:49+08:00",
+      "last_activity_editor": "vscode/1.92.0/copilot/1.229.0"
     },
     {
       "created_at": "2024-05-21T15:21:27+08:00",
@@ -619,35 +619,8 @@
       },
       "updated_at": "2024-06-10T23:49:00+08:00",
       "pending_cancellation_date": null,
-      "last_activity_at": "2024-09-06T16:50:59+08:00",
-      "last_activity_editor": "vscode/1.92.2/"
-    },
-    {
-      "created_at": "2024-06-17T15:17:59+08:00",
-      "assignee": {
-        "login": "mhtsai91app",
-        "id": 171759086,
-        "node_id": "U_kgDOCjzV7g",
-        "avatar_url": "https://avatars.githubusercontent.com/u/171759086?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/mhtsai91app",
-        "html_url": "https://github.com/mhtsai91app",
-        "followers_url": "https://api.github.com/users/mhtsai91app/followers",
-        "following_url": "https://api.github.com/users/mhtsai91app/following{/other_user}",
-        "gists_url": "https://api.github.com/users/mhtsai91app/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/mhtsai91app/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/mhtsai91app/subscriptions",
-        "organizations_url": "https://api.github.com/users/mhtsai91app/orgs",
-        "repos_url": "https://api.github.com/users/mhtsai91app/repos",
-        "events_url": "https://api.github.com/users/mhtsai91app/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/mhtsai91app/received_events",
-        "type": "User",
-        "site_admin": false
-      },
-      "updated_at": "2024-09-06T11:57:11+08:00",
-      "pending_cancellation_date": "2024-09-08",
-      "last_activity_at": null,
-      "last_activity_editor": null
+      "last_activity_at": "2024-09-09T11:06:27+08:00",
+      "last_activity_editor": "vscode/1.92.2/copilot/1.228.0"
     },
     {
       "created_at": "2024-06-24T15:28:36+08:00",
@@ -700,8 +673,8 @@
       },
       "updated_at": "2024-06-28T11:11:18+08:00",
       "pending_cancellation_date": null,
-      "last_activity_at": "2024-09-06T17:34:09+08:00",
-      "last_activity_editor": "vscode/1.92.2/"
+      "last_activity_at": "2024-09-09T12:12:57+08:00",
+      "last_activity_editor": "vscode/1.93.0/"
     },
     {
       "created_at": "2024-06-28T11:10:18+08:00",
@@ -727,8 +700,8 @@
       },
       "updated_at": "2024-06-28T11:11:18+08:00",
       "pending_cancellation_date": null,
-      "last_activity_at": "2024-09-06T18:39:59+08:00",
-      "last_activity_editor": "VisualStudio/17.9.2/copilot-vs/1.147.0.0"
+      "last_activity_at": "2024-09-09T11:35:01+08:00",
+      "last_activity_editor": "vscode/1.87.0/"
     },
     {
       "created_at": "2024-06-28T11:10:18+08:00",
@@ -781,7 +754,7 @@
       },
       "updated_at": "2024-06-28T11:11:19+08:00",
       "pending_cancellation_date": null,
-      "last_activity_at": "2024-09-06T17:21:37+08:00",
+      "last_activity_at": "2024-09-09T11:32:12+08:00",
       "last_activity_editor": "vscode/1.91.0/copilot/1.229.0"
     },
     {
@@ -808,8 +781,8 @@
       },
       "updated_at": "2024-06-28T11:11:19+08:00",
       "pending_cancellation_date": null,
-      "last_activity_at": "2024-09-07T15:22:22+08:00",
-      "last_activity_editor": "VisualStudio/17.11.0/copilot-vs/0.2.1627.58842"
+      "last_activity_at": "2024-09-09T12:03:59+08:00",
+      "last_activity_editor": "JetBrains-RD/233.14015.60/copilot-intellij/1.5.20.6554"
     },
     {
       "created_at": "2024-06-28T11:10:19+08:00",
@@ -889,8 +862,8 @@
       },
       "updated_at": "2024-06-28T11:11:20+08:00",
       "pending_cancellation_date": null,
-      "last_activity_at": "2024-09-06T18:14:32+08:00",
-      "last_activity_editor": "JetBrains-RD/241.15989.179/"
+      "last_activity_at": "2024-09-09T10:26:52+08:00",
+      "last_activity_editor": "JetBrains-RD/241.15989.179/copilot-intellij/1.5.20.6554"
     },
     {
       "created_at": "2024-06-28T11:10:19+08:00",
@@ -916,8 +889,8 @@
       },
       "updated_at": "2024-06-28T11:11:20+08:00",
       "pending_cancellation_date": null,
-      "last_activity_at": "2024-09-06T18:37:04+08:00",
-      "last_activity_editor": "visualstudio/17.10.35027.167/copilot-vs-chat/0.2.889.30432"
+      "last_activity_at": "2024-09-09T12:47:32+08:00",
+      "last_activity_editor": "VisualStudio/17.10.4/"
     },
     {
       "created_at": "2024-07-02T16:19:20+08:00",
@@ -943,7 +916,7 @@
       },
       "updated_at": "2024-07-02T16:20:20+08:00",
       "pending_cancellation_date": null,
-      "last_activity_at": "2024-09-06T18:43:51+08:00",
+      "last_activity_at": "2024-09-09T11:57:16+08:00",
       "last_activity_editor": "vscode/1.89.1/"
     },
     {
@@ -970,7 +943,7 @@
       },
       "updated_at": "2024-07-02T16:21:46+08:00",
       "pending_cancellation_date": null,
-      "last_activity_at": "2024-09-06T17:27:26+08:00",
+      "last_activity_at": "2024-09-09T11:44:20+08:00",
       "last_activity_editor": "JetBrains-RD/241.17011.166/copilot-intellij/1.5.20.6554"
     },
     {
@@ -1024,8 +997,8 @@
       },
       "updated_at": "2024-07-29T17:30:47+08:00",
       "pending_cancellation_date": null,
-      "last_activity_at": "2024-09-08T12:28:57+08:00",
-      "last_activity_editor": "VisualStudio/17.10.4/copilot-vs/0.2.889.30432"
+      "last_activity_at": "2024-09-08T23:41:33+08:00",
+      "last_activity_editor": "VisualStudio/17.10.4/"
     },
     {
       "created_at": "2024-08-30T10:24:55+08:00",
@@ -1240,7 +1213,7 @@
       },
       "updated_at": "2024-08-30T10:32:25+08:00",
       "pending_cancellation_date": null,
-      "last_activity_at": "2024-09-06T19:41:58+08:00",
+      "last_activity_at": "2024-09-09T12:14:40+08:00",
       "last_activity_editor": "JetBrains-RD/233.14475.66/"
     }
   ]
