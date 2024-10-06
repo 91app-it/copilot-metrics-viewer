@@ -1,45 +1,5 @@
 [
   {
-    "day": "2024-09-07",
-    "total_suggestions_count": 85,
-    "total_acceptances_count": 24,
-    "total_lines_suggested": 228,
-    "total_lines_accepted": 54,
-    "total_active_users": 3,
-    "total_chat_acceptances": 0,
-    "total_chat_turns": 0,
-    "total_active_chat_users": 0,
-    "breakdown": [
-      {
-        "language": "razor",
-        "editor": "visual_studio",
-        "suggestions_count": 63,
-        "acceptances_count": 22,
-        "lines_suggested": 184,
-        "lines_accepted": 45,
-        "active_users": 2
-      },
-      {
-        "language": "c#",
-        "editor": "visual_studio",
-        "suggestions_count": 6,
-        "acceptances_count": 2,
-        "lines_suggested": 22,
-        "lines_accepted": 9,
-        "active_users": 3
-      },
-      {
-        "language": "javascript",
-        "editor": "jetbrains",
-        "suggestions_count": 16,
-        "acceptances_count": 0,
-        "lines_suggested": 22,
-        "lines_accepted": 0,
-        "active_users": 1
-      }
-    ]
-  },
-  {
     "day": "2024-09-08",
     "total_suggestions_count": 159,
     "total_acceptances_count": 50,
@@ -4023,6 +3983,37 @@
         "lines_suggested": 1,
         "lines_accepted": 0,
         "active_users": 1
+      }
+    ]
+  },
+  {
+    "day": "2024-10-05",
+    "total_suggestions_count": 291,
+    "total_acceptances_count": 84,
+    "total_lines_suggested": 442,
+    "total_lines_accepted": 123,
+    "total_active_users": 5,
+    "total_chat_acceptances": 0,
+    "total_chat_turns": 0,
+    "total_active_chat_users": 0,
+    "breakdown": [
+      {
+        "language": "c#",
+        "editor": "visual_studio",
+        "suggestions_count": 285,
+        "acceptances_count": 80,
+        "lines_suggested": 429,
+        "lines_accepted": 119,
+        "active_users": 4
+      },
+      {
+        "language": "c#",
+        "editor": "jetbrains",
+        "suggestions_count": 6,
+        "acceptances_count": 4,
+        "lines_suggested": 13,
+        "lines_accepted": 4,
+        "active_users": 2
       }
     ]
   }
