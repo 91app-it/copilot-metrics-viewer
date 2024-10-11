@@ -110,7 +110,7 @@
       "updated_at": "2023-03-31T14:44:47+08:00",
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "last_activity_at": "2024-10-09T16:57:58+08:00",
+      "last_activity_at": "2024-10-11T11:12:54+08:00",
       "last_activity_editor": "JetBrains-DB/233.14015.137/copilot-intellij/1.5.0.5148"
     },
     {
@@ -250,8 +250,8 @@
       "updated_at": "2024-05-20T17:10:23+08:00",
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "last_activity_at": "2024-10-09T11:44:26+08:00",
-      "last_activity_editor": "vscode/1.89.1/"
+      "last_activity_at": "2024-10-11T10:36:40+08:00",
+      "last_activity_editor": "JetBrains-RD/242.22855.90/copilot-intellij/1.5.24.6840"
     },
     {
       "created_at": "2024-05-20T17:09:23+08:00",
@@ -474,8 +474,8 @@
       "updated_at": "2024-05-21T17:43:27+08:00",
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "last_activity_at": "2024-10-09T17:12:25+08:00",
-      "last_activity_editor": "VisualStudio/17.8.3/copilot-vs/1.206.0.0"
+      "last_activity_at": "2024-10-11T12:01:52+08:00",
+      "last_activity_editor": "VisualStudio/17.8.3/"
     },
     {
       "created_at": "2024-05-22T14:48:37+08:00",
@@ -530,8 +530,8 @@
       "updated_at": "2024-05-27T10:50:59+08:00",
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "last_activity_at": "2024-10-10T11:44:42+08:00",
-      "last_activity_editor": "vscode/1.92.2/copilot/1.235.0"
+      "last_activity_at": "2024-10-11T11:23:32+08:00",
+      "last_activity_editor": "vscode/1.92.2/"
     },
     {
       "created_at": "2024-05-31T09:40:27+08:00",
@@ -670,8 +670,8 @@
       "updated_at": "2024-06-28T11:11:18+08:00",
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "last_activity_at": "2024-10-09T19:23:43+08:00",
-      "last_activity_editor": "vscode/1.94.0/"
+      "last_activity_at": "2024-10-11T02:17:59+08:00",
+      "last_activity_editor": "vscode/1.94.1/"
     },
     {
       "created_at": "2024-06-28T11:10:18+08:00",
@@ -782,8 +782,8 @@
       "updated_at": "2024-06-28T11:11:19+08:00",
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "last_activity_at": "2024-10-09T19:04:27+08:00",
-      "last_activity_editor": "JetBrains-RD/233.14015.60/"
+      "last_activity_at": "2024-10-11T11:59:18+08:00",
+      "last_activity_editor": "JetBrains-RD/233.14015.60/copilot-intellij/1.5.20.6554"
     },
     {
       "created_at": "2024-06-28T11:10:19+08:00",
@@ -866,7 +866,7 @@
       "updated_at": "2024-06-28T11:11:20+08:00",
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "last_activity_at": "2024-10-09T18:59:19+08:00",
+      "last_activity_at": "2024-10-11T10:37:17+08:00",
       "last_activity_editor": "JetBrains-RD/242.22855.90/copilot-intellij/1.5.25.10"
     },
     {
@@ -922,7 +922,7 @@
       "updated_at": "2024-07-02T16:20:20+08:00",
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "last_activity_at": "2024-10-09T18:22:18+08:00",
+      "last_activity_at": "2024-10-11T12:05:48+08:00",
       "last_activity_editor": "vscode/1.89.1/"
     },
     {
@@ -950,8 +950,8 @@
       "updated_at": "2024-07-02T16:21:46+08:00",
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "last_activity_at": "2024-10-09T18:30:37+08:00",
-      "last_activity_editor": "JetBrains-RD/241.17011.166/"
+      "last_activity_at": "2024-10-11T10:48:16+08:00",
+      "last_activity_editor": "JetBrains-RD/241.17011.166/copilot-intellij/1.5.24.6840"
     },
     {
       "created_at": "2024-07-05T11:16:46+08:00",
@@ -978,8 +978,8 @@
       "updated_at": "2024-07-05T11:17:46+08:00",
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "last_activity_at": "2024-10-09T18:55:37+08:00",
-      "last_activity_editor": "VisualStudio/17.10.3/"
+      "last_activity_at": "2024-10-11T12:44:34+08:00",
+      "last_activity_editor": "vscode/1.91.1/copilot-chat/0.17.1"
     },
     {
       "created_at": "2024-07-29T17:29:47+08:00",
@@ -1006,7 +1006,7 @@
       "updated_at": "2024-07-29T17:30:47+08:00",
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "last_activity_at": "2024-10-08T17:03:17+08:00",
+      "last_activity_at": "2024-10-11T11:54:14+08:00",
       "last_activity_editor": "VisualStudio/17.11.3/copilot-vs/0.2.1648.49400"
     },
     {
@@ -1062,7 +1062,7 @@
       "updated_at": "2024-08-30T10:25:55+08:00",
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "last_activity_at": "2024-10-08T15:45:38+08:00",
+      "last_activity_at": "2024-10-11T11:42:12+08:00",
       "last_activity_editor": "JetBrains-WS/242.23339.15/copilot-intellij/1.5.24.6840"
     },
     {
@@ -1118,7 +1118,7 @@
       "updated_at": "2024-08-30T10:32:24+08:00",
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "last_activity_at": "2024-10-08T18:14:19+08:00",
+      "last_activity_at": "2024-10-11T11:47:58+08:00",
       "last_activity_editor": "VisualStudio/17.9.1/copilot-vs/1.206.0.0"
     },
     {
@@ -1230,7 +1230,7 @@
       "updated_at": "2024-08-30T10:32:25+08:00",
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "last_activity_at": "2024-10-10T09:47:48+08:00",
+      "last_activity_at": "2024-10-10T22:56:07+08:00",
       "last_activity_editor": "JetBrains-RD/233.14475.66/copilot-intellij/1.5.20.6554"
     }
   ]
