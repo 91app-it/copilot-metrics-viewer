@@ -1,45 +1,5 @@
 [
   {
-    "day": "2024-10-19",
-    "total_suggestions_count": 84,
-    "total_acceptances_count": 41,
-    "total_lines_suggested": 152,
-    "total_lines_accepted": 53,
-    "total_active_users": 5,
-    "total_chat_acceptances": 3,
-    "total_chat_turns": 24,
-    "total_active_chat_users": 2,
-    "breakdown": [
-      {
-        "language": "javascript",
-        "editor": "vscode",
-        "suggestions_count": 35,
-        "acceptances_count": 15,
-        "lines_suggested": 70,
-        "lines_accepted": 20,
-        "active_users": 3
-      },
-      {
-        "language": "c#",
-        "editor": "visual_studio",
-        "suggestions_count": 42,
-        "acceptances_count": 25,
-        "lines_suggested": 50,
-        "lines_accepted": 32,
-        "active_users": 2
-      },
-      {
-        "language": "sql",
-        "editor": "jetbrains",
-        "suggestions_count": 7,
-        "acceptances_count": 1,
-        "lines_suggested": 32,
-        "lines_accepted": 1,
-        "active_users": 2
-      }
-    ]
-  },
-  {
     "day": "2024-10-20",
     "total_suggestions_count": 55,
     "total_acceptances_count": 23,
@@ -3861,6 +3821,46 @@
         "lines_suggested": 9,
         "lines_accepted": 0,
         "active_users": 1
+      }
+    ]
+  },
+  {
+    "day": "2024-11-16",
+    "total_suggestions_count": 154,
+    "total_acceptances_count": 39,
+    "total_lines_suggested": 208,
+    "total_lines_accepted": 38,
+    "total_active_users": 3,
+    "total_chat_acceptances": 0,
+    "total_chat_turns": 2,
+    "total_active_chat_users": 1,
+    "breakdown": [
+      {
+        "language": "typescriptreact",
+        "editor": "vscode",
+        "suggestions_count": 72,
+        "acceptances_count": 25,
+        "lines_suggested": 97,
+        "lines_accepted": 28,
+        "active_users": 2
+      },
+      {
+        "language": "typescript",
+        "editor": "vscode",
+        "suggestions_count": 79,
+        "acceptances_count": 13,
+        "lines_suggested": 95,
+        "lines_accepted": 9,
+        "active_users": 2
+      },
+      {
+        "language": "sql",
+        "editor": "jetbrains",
+        "suggestions_count": 3,
+        "acceptances_count": 1,
+        "lines_suggested": 16,
+        "lines_accepted": 1,
+        "active_users": 2
       }
     ]
   }
