@@ -2,7 +2,7 @@
   "total_seats": 44,
   "seats": [
     {
-      "created_at": "2023-03-29T11:58:26+08:00",
+      "created_at": "2023-03-29T11:59:26+08:00",
       "assignee": {
         "login": "willch1241",
         "id": 129248816,
@@ -31,7 +31,7 @@
       "last_activity_editor": "vscode/1.89.0/copilot/1.229.0"
     },
     {
-      "created_at": "2023-03-31T08:46:38+08:00",
+      "created_at": "2023-03-31T08:47:39+08:00",
       "assignee": {
         "login": "borischin",
         "id": 459244,
@@ -60,7 +60,7 @@
       "last_activity_editor": "vscode/1.91.1/copilot/1.219.0"
     },
     {
-      "created_at": "2023-03-31T10:55:39+08:00",
+      "created_at": "2023-03-31T10:56:39+08:00",
       "assignee": {
         "login": "yunchi0921",
         "id": 29368331,
@@ -89,7 +89,7 @@
       "last_activity_editor": "vscode/1.95.2/copilot/1.245.0"
     },
     {
-      "created_at": "2023-03-31T14:43:47+08:00",
+      "created_at": "2023-03-31T14:44:47+08:00",
       "assignee": {
         "login": "andychou0411",
         "id": 42825985,
@@ -114,11 +114,11 @@
       "updated_at": "2023-03-31T14:44:47+08:00",
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "last_activity_at": "2024-11-21T17:40:26+08:00",
-      "last_activity_editor": "JetBrains-RD/241.18034.76/copilot-intellij/1.5.28.7313"
+      "last_activity_at": "2024-11-22T18:31:42+08:00",
+      "last_activity_editor": "vscode/1.87.1/copilot/1.245.0"
     },
     {
-      "created_at": "2023-04-06T16:57:57+08:00",
+      "created_at": "2023-04-06T16:58:57+08:00",
       "assignee": {
         "login": "JerryChuangGithub",
         "id": 11548069,
@@ -147,7 +147,7 @@
       "last_activity_editor": "vscode/1.93.1/copilot-chat/0.20.1"
     },
     {
-      "created_at": "2023-04-10T11:06:09+08:00",
+      "created_at": "2023-04-10T11:07:14+08:00",
       "assignee": {
         "login": "jamestsunghan",
         "id": 61877958,
@@ -176,7 +176,7 @@
       "last_activity_editor": "JetBrains-AI/231.9392.1.2311.11076708/copilot-intellij/1.2.4.2459"
     },
     {
-      "created_at": "2023-07-28T11:42:09+08:00",
+      "created_at": "2023-07-28T11:43:09+08:00",
       "assignee": {
         "login": "jerrytang0402",
         "id": 130582444,
@@ -201,11 +201,11 @@
       "updated_at": "2023-07-28T11:43:09+08:00",
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "last_activity_at": "2024-11-20T16:44:49+08:00",
+      "last_activity_at": "2024-11-22T13:54:10+08:00",
       "last_activity_editor": "vscode/1.95.3/copilot/1.245.0"
     },
     {
-      "created_at": "2024-05-20T13:49:22+08:00",
+      "created_at": "2024-05-20T13:50:22+08:00",
       "assignee": {
         "login": "FrankLin91APP",
         "id": 128876992,
@@ -234,7 +234,7 @@
       "last_activity_editor": "vscode/1.92.0/copilot/1.221.0"
     },
     {
-      "created_at": "2024-05-20T17:09:23+08:00",
+      "created_at": "2024-05-20T17:10:23+08:00",
       "assignee": {
         "login": "s89227",
         "id": 15659351,
@@ -263,7 +263,7 @@
       "last_activity_editor": "vscode/1.89.1/"
     },
     {
-      "created_at": "2024-05-20T17:09:23+08:00",
+      "created_at": "2024-05-20T17:10:23+08:00",
       "assignee": {
         "login": "lingtzuyu",
         "id": 85784074,
@@ -292,7 +292,7 @@
       "last_activity_editor": "vscode/1.93.1/copilot/1.245.0"
     },
     {
-      "created_at": "2024-05-20T17:09:23+08:00",
+      "created_at": "2024-05-20T17:10:24+08:00",
       "assignee": {
         "login": "sam-cs-fang",
         "id": 169971734,
@@ -321,7 +321,7 @@
       "last_activity_editor": "vscode/1.89.1/"
     },
     {
-      "created_at": "2024-05-20T17:09:24+08:00",
+      "created_at": "2024-05-20T17:10:24+08:00",
       "assignee": {
         "login": "kuanyinchen",
         "id": 55389861,
@@ -346,11 +346,11 @@
       "updated_at": "2024-05-20T17:10:24+08:00",
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "last_activity_at": "2024-11-22T12:01:36+08:00",
+      "last_activity_at": "2024-11-22T16:32:44+08:00",
       "last_activity_editor": "vscode/1.92.2/copilot/1.242.0"
     },
     {
-      "created_at": "2024-05-20T17:09:24+08:00",
+      "created_at": "2024-05-20T17:10:24+08:00",
       "assignee": {
         "login": "ZanderKuo",
         "id": 169971816,
@@ -379,7 +379,7 @@
       "last_activity_editor": "vscode/1.95.3/"
     },
     {
-      "created_at": "2024-05-20T17:09:24+08:00",
+      "created_at": "2024-05-21T10:12:37+08:00",
       "assignee": {
         "login": "kwkevinchan",
         "id": 34512364,
@@ -404,11 +404,11 @@
       "updated_at": "2024-05-21T10:12:37+08:00",
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "last_activity_at": "2024-11-21T18:42:01+08:00",
-      "last_activity_editor": "vscode/1.95.2/"
+      "last_activity_at": "2024-11-22T18:54:18+08:00",
+      "last_activity_editor": "vscode/1.95.3/copilot/1.245.0"
     },
     {
-      "created_at": "2024-05-20T17:09:23+08:00",
+      "created_at": "2024-05-21T14:58:42+08:00",
       "assignee": {
         "login": "ogckw",
         "id": 8310032,
@@ -433,11 +433,11 @@
       "updated_at": "2024-05-21T14:58:42+08:00",
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "last_activity_at": "2024-11-20T19:14:59+08:00",
+      "last_activity_at": "2024-11-22T15:54:36+08:00",
       "last_activity_editor": "vscode/1.95.2/copilot/1.245.0"
     },
     {
-      "created_at": "2024-05-21T15:21:27+08:00",
+      "created_at": "2024-05-21T15:22:27+08:00",
       "assignee": {
         "login": "millerhor",
         "id": 47219928,
@@ -462,11 +462,11 @@
       "updated_at": "2024-05-21T15:22:27+08:00",
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "last_activity_at": "2024-11-21T13:14:31+08:00",
+      "last_activity_at": "2024-11-22T18:06:39+08:00",
       "last_activity_editor": "vscode/1.89.1/copilot/1.245.0"
     },
     {
-      "created_at": "2024-05-21T17:42:27+08:00",
+      "created_at": "2024-05-21T17:43:27+08:00",
       "assignee": {
         "login": "hackbabu9033",
         "id": 30076670,
@@ -491,11 +491,11 @@
       "updated_at": "2024-05-21T17:43:27+08:00",
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "last_activity_at": "2024-11-22T10:14:22+08:00",
+      "last_activity_at": "2024-11-22T18:15:20+08:00",
       "last_activity_editor": "VisualStudio/17.8.3/copilot-vs/1.206.0.0"
     },
     {
-      "created_at": "2024-05-22T14:48:37+08:00",
+      "created_at": "2024-05-22T14:49:37+08:00",
       "assignee": {
         "login": "RickyChiang85",
         "id": 170414826,
@@ -524,7 +524,7 @@
       "last_activity_editor": "vscode/1.95.3/copilot-chat/0.22.3"
     },
     {
-      "created_at": "2024-05-27T10:49:58+08:00",
+      "created_at": "2024-05-27T10:50:59+08:00",
       "assignee": {
         "login": "yennyapr",
         "id": 48793132,
@@ -549,11 +549,11 @@
       "updated_at": "2024-05-27T10:50:59+08:00",
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "last_activity_at": "2024-11-21T16:54:59+08:00",
+      "last_activity_at": "2024-11-22T18:21:15+08:00",
       "last_activity_editor": "vscode/1.92.2/"
     },
     {
-      "created_at": "2024-05-31T09:40:27+08:00",
+      "created_at": "2024-05-31T09:41:27+08:00",
       "assignee": {
         "login": "xpsteven",
         "id": 2688505,
@@ -582,7 +582,7 @@
       "last_activity_editor": "vscode/1.95.3/copilot/1.245.0"
     },
     {
-      "created_at": "2024-05-31T09:40:56+08:00",
+      "created_at": "2024-05-31T09:41:56+08:00",
       "assignee": {
         "login": "andrew0928",
         "id": 15281111,
@@ -607,11 +607,11 @@
       "updated_at": "2024-05-31T09:41:56+08:00",
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "last_activity_at": "2024-11-19T10:10:19+08:00",
+      "last_activity_at": "2024-11-22T18:23:53+08:00",
       "last_activity_editor": "VisualStudio/17.11.4/"
     },
     {
-      "created_at": "2024-06-10T23:48:00+08:00",
+      "created_at": "2024-06-10T23:49:00+08:00",
       "assignee": {
         "login": "91app-it",
         "id": 129246428,
@@ -640,7 +640,7 @@
       "last_activity_editor": "vscode/1.95.2/copilot/1.245.0"
     },
     {
-      "created_at": "2024-06-24T15:28:36+08:00",
+      "created_at": "2024-06-24T15:29:36+08:00",
       "assignee": {
         "login": "wlhsu1992",
         "id": 52366317,
@@ -669,7 +669,7 @@
       "last_activity_editor": "VisualStudio/17.9.7/copilot-vs/1.147.0.0"
     },
     {
-      "created_at": "2024-06-28T11:10:18+08:00",
+      "created_at": "2024-06-28T11:11:18+08:00",
       "assignee": {
         "login": "NineYiDonnaHsu",
         "id": 173337020,
@@ -694,11 +694,11 @@
       "updated_at": "2024-06-28T11:11:18+08:00",
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "last_activity_at": "2024-11-21T20:21:50+08:00",
+      "last_activity_at": "2024-11-22T21:23:10+08:00",
       "last_activity_editor": "VisualStudio/17.10.3/copilot-vs/0.2.889.30432"
     },
     {
-      "created_at": "2024-06-28T11:10:18+08:00",
+      "created_at": "2024-06-28T11:11:18+08:00",
       "assignee": {
         "login": "WeiseWang",
         "id": 173335377,
@@ -723,11 +723,11 @@
       "updated_at": "2024-06-28T11:11:18+08:00",
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "last_activity_at": "2024-11-21T18:43:25+08:00",
+      "last_activity_at": "2024-11-22T19:20:16+08:00",
       "last_activity_editor": "VisualStudio/17.9.2/copilot-vs/1.147.0.0"
     },
     {
-      "created_at": "2024-06-28T11:10:18+08:00",
+      "created_at": "2024-06-28T11:11:19+08:00",
       "assignee": {
         "login": "AsimoChen",
         "id": 173334361,
@@ -756,7 +756,7 @@
       "last_activity_editor": "JetBrains-RD/241.19072.26/"
     },
     {
-      "created_at": "2024-06-28T11:10:19+08:00",
+      "created_at": "2024-06-28T11:11:19+08:00",
       "assignee": {
         "login": "barlinoyeh",
         "id": 173331740,
@@ -785,7 +785,7 @@
       "last_activity_editor": "vscode/1.91.0/copilot/1.245.0"
     },
     {
-      "created_at": "2024-06-28T11:10:19+08:00",
+      "created_at": "2024-06-28T11:11:19+08:00",
       "assignee": {
         "login": "jhlin0809",
         "id": 173342362,
@@ -810,11 +810,11 @@
       "updated_at": "2024-06-28T11:11:19+08:00",
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "last_activity_at": "2024-11-22T01:24:07+08:00",
-      "last_activity_editor": "JetBrains-RD/233.14015.60/copilot-intellij/1.5.20.6554"
+      "last_activity_at": "2024-11-22T14:03:55+08:00",
+      "last_activity_editor": "VisualStudio/17.11.0/copilot-vs/0.2.1627.58842"
     },
     {
-      "created_at": "2024-06-28T11:10:19+08:00",
+      "created_at": "2024-06-28T11:11:19+08:00",
       "assignee": {
         "login": "tinawang0704",
         "id": 173342403,
@@ -843,7 +843,7 @@
       "last_activity_editor": "vscode/1.87.1/copilot/1.245.0"
     },
     {
-      "created_at": "2024-06-28T11:10:19+08:00",
+      "created_at": "2024-06-28T11:11:19+08:00",
       "assignee": {
         "login": "williamyhh",
         "id": 173330736,
@@ -872,7 +872,7 @@
       "last_activity_editor": "visualstudio/17.10.35013.160/copilot-vs-chat/0.2.889.30432"
     },
     {
-      "created_at": "2024-06-28T11:10:19+08:00",
+      "created_at": "2024-06-28T11:11:20+08:00",
       "assignee": {
         "login": "ridkuo91",
         "id": 173329115,
@@ -897,11 +897,11 @@
       "updated_at": "2024-06-28T11:11:20+08:00",
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "last_activity_at": "2024-11-22T10:00:18+08:00",
-      "last_activity_editor": "JetBrains-RD/243.21565.191/copilot-intellij/1.5.29.7524"
+      "last_activity_at": "2024-11-22T18:01:56+08:00",
+      "last_activity_editor": "JetBrains-RD/243.21565.191/"
     },
     {
-      "created_at": "2024-06-28T11:10:19+08:00",
+      "created_at": "2024-06-28T11:11:20+08:00",
       "assignee": {
         "login": "zerolin-91app",
         "id": 173336936,
@@ -926,11 +926,11 @@
       "updated_at": "2024-06-28T11:11:20+08:00",
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "last_activity_at": "2024-11-21T19:13:28+08:00",
+      "last_activity_at": "2024-11-22T18:53:38+08:00",
       "last_activity_editor": "VisualStudio/17.11.5/copilot-vs/0.2.1657.32929"
     },
     {
-      "created_at": "2024-07-02T16:19:20+08:00",
+      "created_at": "2024-07-02T16:20:20+08:00",
       "assignee": {
         "login": "EthanHuang0219",
         "id": 173335869,
@@ -959,7 +959,7 @@
       "last_activity_editor": "vscode/1.91.1/copilot/1.243.0"
     },
     {
-      "created_at": "2024-07-02T16:20:46+08:00",
+      "created_at": "2024-07-02T16:21:46+08:00",
       "assignee": {
         "login": "jojolyn",
         "id": 173979668,
@@ -984,11 +984,11 @@
       "updated_at": "2024-07-02T16:21:46+08:00",
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "last_activity_at": "2024-11-22T10:10:37+08:00",
-      "last_activity_editor": "JetBrains-RD/242.23726.100/copilot-intellij/1.5.29.7524"
+      "last_activity_at": "2024-11-22T19:23:58+08:00",
+      "last_activity_editor": "JetBrains-RD/242.23726.100/"
     },
     {
-      "created_at": "2024-07-05T11:16:46+08:00",
+      "created_at": "2024-07-05T11:17:46+08:00",
       "assignee": {
         "login": "htchen0111",
         "id": 173342384,
@@ -1013,11 +1013,11 @@
       "updated_at": "2024-07-05T11:17:46+08:00",
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "last_activity_at": "2024-11-22T11:54:21+08:00",
+      "last_activity_at": "2024-11-22T18:52:50+08:00",
       "last_activity_editor": "VisualStudio/17.10.3/copilot-vs/0.2.889.30432"
     },
     {
-      "created_at": "2024-07-29T17:29:47+08:00",
+      "created_at": "2024-07-29T17:30:47+08:00",
       "assignee": {
         "login": "DungHan",
         "id": 57517532,
@@ -1042,11 +1042,11 @@
       "updated_at": "2024-07-29T17:30:47+08:00",
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "last_activity_at": "2024-11-22T12:01:00+08:00",
+      "last_activity_at": "2024-11-22T17:51:54+08:00",
       "last_activity_editor": "VisualStudio/17.11.5/copilot-vs/0.2.1657.32929"
     },
     {
-      "created_at": "2024-08-30T10:24:55+08:00",
+      "created_at": "2024-08-30T10:25:55+08:00",
       "assignee": {
         "login": "andychen91",
         "id": 179817389,
@@ -1075,7 +1075,7 @@
       "last_activity_editor": "vscode/1.86.2/copilot/1.224.0"
     },
     {
-      "created_at": "2024-08-30T10:24:55+08:00",
+      "created_at": "2024-08-30T10:25:55+08:00",
       "assignee": {
         "login": "bearli91app",
         "id": 179817453,
@@ -1100,11 +1100,11 @@
       "updated_at": "2024-08-30T10:25:55+08:00",
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "last_activity_at": "2024-11-22T12:42:19+08:00",
+      "last_activity_at": "2024-11-23T12:44:51+08:00",
       "last_activity_editor": "JetBrains-WS/243.21565.180/copilot-intellij/1.5.29.7524"
     },
     {
-      "created_at": "2024-08-30T10:25:12+08:00",
+      "created_at": "2024-08-30T10:26:12+08:00",
       "assignee": {
         "login": "SusanHuang91APP",
         "id": 174298136,
@@ -1133,7 +1133,7 @@
       "last_activity_editor": null
     },
     {
-      "created_at": "2024-08-30T10:31:24+08:00",
+      "created_at": "2024-08-30T10:32:24+08:00",
       "assignee": {
         "login": "jackting",
         "id": 178158964,
@@ -1162,7 +1162,7 @@
       "last_activity_editor": "VisualStudio/17.9.1/copilot-vs/1.206.0.0"
     },
     {
-      "created_at": "2024-08-30T10:31:24+08:00",
+      "created_at": "2024-08-30T10:32:24+08:00",
       "assignee": {
         "login": "ZackJian91",
         "id": 177087008,
@@ -1191,7 +1191,7 @@
       "last_activity_editor": "visualstudio/17.8.34322.80/copilot-vs-chat/0.2.758.50025"
     },
     {
-      "created_at": "2024-08-30T10:31:24+08:00",
+      "created_at": "2024-08-30T10:32:25+08:00",
       "assignee": {
         "login": "haojhong-91app",
         "id": 178449718,
@@ -1220,7 +1220,7 @@
       "last_activity_editor": null
     },
     {
-      "created_at": "2024-08-30T10:31:25+08:00",
+      "created_at": "2024-08-30T10:32:25+08:00",
       "assignee": {
         "login": "RobinChen543",
         "id": 178479698,
@@ -1245,11 +1245,11 @@
       "updated_at": "2024-08-30T10:32:25+08:00",
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "last_activity_at": "2024-11-21T19:22:43+08:00",
-      "last_activity_editor": "JetBrains-RD/233.15026.35/copilot-intellij/1.5.29.7524"
+      "last_activity_at": "2024-11-22T23:11:50+08:00",
+      "last_activity_editor": "JetBrains-RD/233.15026.35/"
     },
     {
-      "created_at": "2024-08-30T10:31:25+08:00",
+      "created_at": "2024-08-30T10:32:25+08:00",
       "assignee": {
         "login": "kiralin1390",
         "id": 178288279,
@@ -1274,8 +1274,8 @@
       "updated_at": "2024-08-30T10:32:25+08:00",
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "last_activity_at": "2024-11-21T16:50:37+08:00",
-      "last_activity_editor": "JetBrains-RD/233.14475.66/copilot-intellij/1.5.20.6554"
+      "last_activity_at": "2024-11-22T18:44:40+08:00",
+      "last_activity_editor": "JetBrains-RD/233.14475.66/"
     }
   ]
 }
