@@ -1,36 +1,5 @@
 [
   {
-    "day": "2024-11-09",
-    "total_suggestions_count": 83,
-    "total_acceptances_count": 16,
-    "total_lines_suggested": 535,
-    "total_lines_accepted": 43,
-    "total_active_users": 3,
-    "total_chat_acceptances": 0,
-    "total_chat_turns": 2,
-    "total_active_chat_users": 1,
-    "breakdown": [
-      {
-        "language": "c#",
-        "editor": "jetbrains",
-        "suggestions_count": 47,
-        "acceptances_count": 12,
-        "lines_suggested": 429,
-        "lines_accepted": 35,
-        "active_users": 2
-      },
-      {
-        "language": "sql",
-        "editor": "jetbrains",
-        "suggestions_count": 36,
-        "acceptances_count": 4,
-        "lines_suggested": 106,
-        "lines_accepted": 8,
-        "active_users": 2
-      }
-    ]
-  },
-  {
     "day": "2024-11-10",
     "total_suggestions_count": 777,
     "total_acceptances_count": 182,
@@ -3850,6 +3819,28 @@
         "suggestions_count": 2,
         "acceptances_count": 0,
         "lines_suggested": 2,
+        "lines_accepted": 0,
+        "active_users": 1
+      }
+    ]
+  },
+  {
+    "day": "2024-12-07",
+    "total_suggestions_count": 4,
+    "total_acceptances_count": 0,
+    "total_lines_suggested": 7,
+    "total_lines_accepted": 0,
+    "total_active_users": 1,
+    "total_chat_acceptances": 0,
+    "total_chat_turns": 0,
+    "total_active_chat_users": 0,
+    "breakdown": [
+      {
+        "language": "sql",
+        "editor": "jetbrains",
+        "suggestions_count": 4,
+        "acceptances_count": 0,
+        "lines_suggested": 7,
         "lines_accepted": 0,
         "active_users": 1
       }
