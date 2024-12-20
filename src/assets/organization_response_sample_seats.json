@@ -1,5 +1,5 @@
 {
-  "total_seats": 46,
+  "total_seats": 50,
   "seats": [
     {
       "created_at": "2023-03-29T11:59:26+08:00",
@@ -114,8 +114,8 @@
       "pending_cancellation_date": null,
       "plan_type": "business",
       "updated_at": "2023-03-31T14:44:47+08:00",
-      "last_activity_at": "2024-12-18T15:13:27+08:00",
-      "last_activity_editor": "JetBrains-DB/233.14015.137/copilot-intellij/1.5.0.5148"
+      "last_activity_at": "2024-12-19T17:11:44+08:00",
+      "last_activity_editor": "JetBrains-DB/233.14015.137/"
     },
     {
       "created_at": "2023-04-06T16:58:57+08:00",
@@ -288,7 +288,7 @@
       "pending_cancellation_date": null,
       "plan_type": "business",
       "updated_at": "2024-05-20T17:10:23+08:00",
-      "last_activity_at": "2024-12-19T11:54:47+08:00",
+      "last_activity_at": "2024-12-20T11:34:39+08:00",
       "last_activity_editor": "JetBrains-RD/242.21829.210/copilot-intellij/1.5.24.6840"
     },
     {
@@ -317,7 +317,7 @@
       "pending_cancellation_date": null,
       "plan_type": "business",
       "updated_at": "2024-05-20T17:10:24+08:00",
-      "last_activity_at": "2024-12-17T10:34:10+08:00",
+      "last_activity_at": "2024-12-19T14:31:34+08:00",
       "last_activity_editor": "vscode/1.89.1/copilot/1.250.0"
     },
     {
@@ -346,7 +346,7 @@
       "pending_cancellation_date": null,
       "plan_type": "business",
       "updated_at": "2024-05-20T17:10:24+08:00",
-      "last_activity_at": "2024-12-18T10:13:57+08:00",
+      "last_activity_at": "2024-12-19T14:41:39+08:00",
       "last_activity_editor": "vscode/1.92.2/copilot/1.246.0"
     },
     {
@@ -375,8 +375,8 @@
       "pending_cancellation_date": null,
       "plan_type": "business",
       "updated_at": "2024-05-20T17:10:24+08:00",
-      "last_activity_at": "2024-12-19T11:53:39+08:00",
-      "last_activity_editor": "vscode/1.96.0/"
+      "last_activity_at": "2024-12-20T11:23:34+08:00",
+      "last_activity_editor": "vscode/1.96.0/copilot/1.253.0"
     },
     {
       "created_at": "2024-05-21T10:12:37+08:00",
@@ -404,7 +404,7 @@
       "pending_cancellation_date": null,
       "plan_type": "business",
       "updated_at": "2024-05-21T10:12:37+08:00",
-      "last_activity_at": "2024-12-19T11:11:16+08:00",
+      "last_activity_at": "2024-12-20T10:36:14+08:00",
       "last_activity_editor": "vscode/1.96.0/copilot/1.252.0"
     },
     {
@@ -520,7 +520,7 @@
       "pending_cancellation_date": null,
       "plan_type": "business",
       "updated_at": "2024-05-22T14:49:37+08:00",
-      "last_activity_at": "2024-12-18T12:02:35+08:00",
+      "last_activity_at": "2024-12-19T13:44:59+08:00",
       "last_activity_editor": "vscode/1.96.0/copilot/1.252.0"
     },
     {
@@ -549,8 +549,8 @@
       "pending_cancellation_date": null,
       "plan_type": "business",
       "updated_at": "2024-05-27T10:50:59+08:00",
-      "last_activity_at": "2024-12-18T16:01:47+08:00",
-      "last_activity_editor": "vscode/1.92.2/copilot/1.242.0"
+      "last_activity_at": "2024-12-20T12:04:51+08:00",
+      "last_activity_editor": "vscode/1.92.2/copilot/1.250.0"
     },
     {
       "created_at": "2024-05-31T09:41:27+08:00",
@@ -636,7 +636,7 @@
       "pending_cancellation_date": null,
       "plan_type": "business",
       "updated_at": "2024-06-10T23:49:00+08:00",
-      "last_activity_at": "2024-12-19T11:42:11+08:00",
+      "last_activity_at": "2024-12-20T11:44:26+08:00",
       "last_activity_editor": "vscode/1.95.3/copilot/1.250.0"
     },
     {
@@ -694,8 +694,8 @@
       "pending_cancellation_date": null,
       "plan_type": "business",
       "updated_at": "2024-06-28T11:11:18+08:00",
-      "last_activity_at": "2024-12-18T19:34:39+08:00",
-      "last_activity_editor": "VisualStudio/17.10.3/copilot-vs/0.2.889.30432"
+      "last_activity_at": "2024-12-20T03:14:42+08:00",
+      "last_activity_editor": "VisualStudio/17.10.3/"
     },
     {
       "created_at": "2024-06-28T11:11:18+08:00",
@@ -752,7 +752,7 @@
       "pending_cancellation_date": null,
       "plan_type": "business",
       "updated_at": "2024-06-28T11:11:19+08:00",
-      "last_activity_at": "2024-12-18T10:13:39+08:00",
+      "last_activity_at": "2024-12-20T08:54:00+08:00",
       "last_activity_editor": "JetBrains-RD/241.19072.26/copilot-intellij/1.5.22.6765"
     },
     {
@@ -781,8 +781,8 @@
       "pending_cancellation_date": null,
       "plan_type": "business",
       "updated_at": "2024-06-28T11:11:19+08:00",
-      "last_activity_at": "2024-12-18T17:43:06+08:00",
-      "last_activity_editor": "vscode/1.91.0/"
+      "last_activity_at": "2024-12-20T12:12:08+08:00",
+      "last_activity_editor": "vscode/1.91.0/copilot/1.250.0"
     },
     {
       "created_at": "2024-06-28T11:11:19+08:00",
@@ -810,8 +810,8 @@
       "pending_cancellation_date": null,
       "plan_type": "business",
       "updated_at": "2024-06-28T11:11:19+08:00",
-      "last_activity_at": "2024-12-18T16:32:03+08:00",
-      "last_activity_editor": "vscode/1.93.1/"
+      "last_activity_at": "2024-12-20T12:12:04+08:00",
+      "last_activity_editor": "vscode/1.93.1/copilot/1.250.0"
     },
     {
       "created_at": "2024-06-28T11:11:19+08:00",
@@ -868,7 +868,7 @@
       "pending_cancellation_date": null,
       "plan_type": "business",
       "updated_at": "2024-06-28T11:11:19+08:00",
-      "last_activity_at": "2024-12-19T11:51:51+08:00",
+      "last_activity_at": "2024-12-20T10:42:35+08:00",
       "last_activity_editor": "JetBrains-RD/233.14475.66/copilot-intellij/1.5.17.6356"
     },
     {
@@ -897,8 +897,8 @@
       "pending_cancellation_date": null,
       "plan_type": "business",
       "updated_at": "2024-06-28T11:11:20+08:00",
-      "last_activity_at": "2024-12-18T19:04:17+08:00",
-      "last_activity_editor": "JetBrains-RD/243.21565.191/"
+      "last_activity_at": "2024-12-19T15:14:17+08:00",
+      "last_activity_editor": "JetBrains-RD/243.21565.191/copilot-intellij/1.5.29.7524"
     },
     {
       "created_at": "2024-06-28T11:11:20+08:00",
@@ -926,8 +926,8 @@
       "pending_cancellation_date": null,
       "plan_type": "business",
       "updated_at": "2024-06-28T11:11:20+08:00",
-      "last_activity_at": "2024-12-19T09:53:08+08:00",
-      "last_activity_editor": "visualstudio/17.12.35521.163/copilot-vs-chat/17.12.38.29086"
+      "last_activity_at": "2024-12-20T11:04:14+08:00",
+      "last_activity_editor": "vscode/1.91.1/"
     },
     {
       "created_at": "2024-07-02T16:20:20+08:00",
@@ -955,7 +955,7 @@
       "pending_cancellation_date": null,
       "plan_type": "business",
       "updated_at": "2024-07-02T16:20:20+08:00",
-      "last_activity_at": "2024-12-19T11:24:47+08:00",
+      "last_activity_at": "2024-12-20T10:34:17+08:00",
       "last_activity_editor": "vscode/1.91.1/copilot/1.243.0"
     },
     {
@@ -984,7 +984,7 @@
       "pending_cancellation_date": null,
       "plan_type": "business",
       "updated_at": "2024-07-02T16:21:46+08:00",
-      "last_activity_at": "2024-12-18T17:54:45+08:00",
+      "last_activity_at": "2024-12-20T10:50:43+08:00",
       "last_activity_editor": "JetBrains-RD/242.23726.100/copilot-intellij/1.5.29.7524"
     },
     {
@@ -1042,8 +1042,8 @@
       "pending_cancellation_date": null,
       "plan_type": "business",
       "updated_at": "2024-07-29T17:30:47+08:00",
-      "last_activity_at": "2024-12-19T11:51:11+08:00",
-      "last_activity_editor": "VisualStudio/17.11.6/"
+      "last_activity_at": "2024-12-20T09:46:01+08:00",
+      "last_activity_editor": "VisualStudio/17.11.6/copilot-vs/0.2.1671.27212"
     },
     {
       "created_at": "2024-08-30T10:25:55+08:00",
@@ -1100,7 +1100,7 @@
       "pending_cancellation_date": null,
       "plan_type": "business",
       "updated_at": "2024-08-30T10:25:55+08:00",
-      "last_activity_at": "2024-12-19T12:44:41+08:00",
+      "last_activity_at": "2024-12-20T11:33:48+08:00",
       "last_activity_editor": "JetBrains-WS/243.22562.112/copilot-intellij/1.5.29.7524"
     },
     {
@@ -1187,7 +1187,7 @@
       "pending_cancellation_date": null,
       "plan_type": "business",
       "updated_at": "2024-08-30T10:32:24+08:00",
-      "last_activity_at": "2024-12-17T10:34:56+08:00",
+      "last_activity_at": "2024-12-20T11:02:23+08:00",
       "last_activity_editor": "VisualStudio/17.8.2/copilot-vs/1.206.0.0"
     },
     {
@@ -1216,8 +1216,8 @@
       "pending_cancellation_date": null,
       "plan_type": "business",
       "updated_at": "2024-08-30T10:32:25+08:00",
-      "last_activity_at": "2024-12-19T11:53:27+08:00",
-      "last_activity_editor": "VisualStudio/17.12.3/copilot-vs/17.12.38.29086"
+      "last_activity_at": "2024-12-19T16:31:15+08:00",
+      "last_activity_editor": "visualstudio/17.12.35527.113/copilot-vs-chat/17.12.38.29086"
     },
     {
       "created_at": "2024-08-30T10:32:25+08:00",
@@ -1274,7 +1274,7 @@
       "pending_cancellation_date": null,
       "plan_type": "business",
       "updated_at": "2024-08-30T10:32:25+08:00",
-      "last_activity_at": "2024-12-19T11:14:34+08:00",
+      "last_activity_at": "2024-12-20T11:01:13+08:00",
       "last_activity_editor": "JetBrains-RD/233.14475.66/copilot-intellij/1.5.20.6554"
     },
     {
@@ -1303,8 +1303,8 @@
       "pending_cancellation_date": null,
       "plan_type": "business",
       "updated_at": "2024-12-09T09:42:56+08:00",
-      "last_activity_at": "2024-12-18T15:34:58+08:00",
-      "last_activity_editor": "vscode/1.95.3/copilot-chat/0.22.4"
+      "last_activity_at": "2024-12-20T11:22:26+08:00",
+      "last_activity_editor": "vscode/1.96.0/copilot/1.253.0"
     },
     {
       "created_at": "2024-12-17T15:02:20+08:00",
@@ -1334,6 +1334,122 @@
       "updated_at": "2024-12-17T15:02:20+08:00",
       "last_activity_at": "2024-12-11T16:40:20+08:00",
       "last_activity_editor": "VisualStudio/17.9.7/copilot-vs/1.139.0.0"
+    },
+    {
+      "created_at": "2024-12-19T16:04:06+08:00",
+      "assignee": {
+        "login": "felixyu91",
+        "id": 129488133,
+        "node_id": "U_kgDOB7fVBQ",
+        "avatar_url": "https://avatars.githubusercontent.com/u/129488133?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/felixyu91",
+        "html_url": "https://github.com/felixyu91",
+        "followers_url": "https://api.github.com/users/felixyu91/followers",
+        "following_url": "https://api.github.com/users/felixyu91/following{/other_user}",
+        "gists_url": "https://api.github.com/users/felixyu91/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/felixyu91/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/felixyu91/subscriptions",
+        "organizations_url": "https://api.github.com/users/felixyu91/orgs",
+        "repos_url": "https://api.github.com/users/felixyu91/repos",
+        "events_url": "https://api.github.com/users/felixyu91/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/felixyu91/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "pending_cancellation_date": null,
+      "plan_type": "business",
+      "updated_at": "2024-12-19T16:04:06+08:00",
+      "last_activity_at": null,
+      "last_activity_editor": null
+    },
+    {
+      "created_at": "2024-12-19T16:30:52+08:00",
+      "assignee": {
+        "login": "jeff-lian-91app",
+        "id": 192193702,
+        "node_id": "U_kgDOC3Skpg",
+        "avatar_url": "https://avatars.githubusercontent.com/u/192193702?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/jeff-lian-91app",
+        "html_url": "https://github.com/jeff-lian-91app",
+        "followers_url": "https://api.github.com/users/jeff-lian-91app/followers",
+        "following_url": "https://api.github.com/users/jeff-lian-91app/following{/other_user}",
+        "gists_url": "https://api.github.com/users/jeff-lian-91app/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/jeff-lian-91app/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/jeff-lian-91app/subscriptions",
+        "organizations_url": "https://api.github.com/users/jeff-lian-91app/orgs",
+        "repos_url": "https://api.github.com/users/jeff-lian-91app/repos",
+        "events_url": "https://api.github.com/users/jeff-lian-91app/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/jeff-lian-91app/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "pending_cancellation_date": null,
+      "plan_type": "business",
+      "updated_at": "2024-12-19T16:30:52+08:00",
+      "last_activity_at": null,
+      "last_activity_editor": null
+    },
+    {
+      "created_at": "2024-12-19T16:33:20+08:00",
+      "assignee": {
+        "login": "CYCyujing",
+        "id": 192193655,
+        "node_id": "U_kgDOC3Skdw",
+        "avatar_url": "https://avatars.githubusercontent.com/u/192193655?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/CYCyujing",
+        "html_url": "https://github.com/CYCyujing",
+        "followers_url": "https://api.github.com/users/CYCyujing/followers",
+        "following_url": "https://api.github.com/users/CYCyujing/following{/other_user}",
+        "gists_url": "https://api.github.com/users/CYCyujing/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/CYCyujing/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/CYCyujing/subscriptions",
+        "organizations_url": "https://api.github.com/users/CYCyujing/orgs",
+        "repos_url": "https://api.github.com/users/CYCyujing/repos",
+        "events_url": "https://api.github.com/users/CYCyujing/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/CYCyujing/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "pending_cancellation_date": null,
+      "plan_type": "business",
+      "updated_at": "2024-12-19T16:33:20+08:00",
+      "last_activity_at": null,
+      "last_activity_editor": null
+    },
+    {
+      "created_at": "2024-12-19T17:04:26+08:00",
+      "assignee": {
+        "login": "StevenLin91",
+        "id": 192193761,
+        "node_id": "U_kgDOC3Sk4Q",
+        "avatar_url": "https://avatars.githubusercontent.com/u/192193761?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/StevenLin91",
+        "html_url": "https://github.com/StevenLin91",
+        "followers_url": "https://api.github.com/users/StevenLin91/followers",
+        "following_url": "https://api.github.com/users/StevenLin91/following{/other_user}",
+        "gists_url": "https://api.github.com/users/StevenLin91/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/StevenLin91/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/StevenLin91/subscriptions",
+        "organizations_url": "https://api.github.com/users/StevenLin91/orgs",
+        "repos_url": "https://api.github.com/users/StevenLin91/repos",
+        "events_url": "https://api.github.com/users/StevenLin91/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/StevenLin91/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "pending_cancellation_date": null,
+      "plan_type": "business",
+      "updated_at": "2024-12-19T17:04:26+08:00",
+      "last_activity_at": null,
+      "last_activity_editor": null
     }
   ]
 }
