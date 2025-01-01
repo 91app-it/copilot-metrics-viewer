@@ -1,5 +1,5 @@
 {
-  "total_seats": 50,
+  "total_seats": 66,
   "seats": [
     {
       "created_at": "2023-03-29T11:59:26+08:00",
@@ -26,9 +26,24 @@
       },
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "updated_at": "2023-03-29T11:59:26+08:00",
+      "updated_at": "2025-01-01T08:00:00+08:00",
       "last_activity_at": "2024-09-23T17:12:54+08:00",
-      "last_activity_editor": "vscode/1.89.0/copilot/1.229.0"
+      "last_activity_editor": "vscode/1.89.0/copilot/1.229.0",
+      "assigning_team": {
+        "name": "Data",
+        "id": 11831014,
+        "node_id": "T_kwDOB7QoD84AtIbm",
+        "slug": "data",
+        "description": "UPD.UPD3",
+        "privacy": "closed",
+        "notification_setting": "notifications_enabled",
+        "url": "https://api.github.com/organizations/129247247/team/11831014",
+        "html_url": "https://github.com/orgs/91appit/teams/data",
+        "members_url": "https://api.github.com/organizations/129247247/team/11831014/members{/member}",
+        "repositories_url": "https://api.github.com/organizations/129247247/team/11831014/repos",
+        "permission": "pull",
+        "parent": null
+      }
     },
     {
       "created_at": "2023-03-31T08:47:39+08:00",
@@ -55,9 +70,24 @@
       },
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "updated_at": "2023-03-31T08:47:39+08:00",
+      "updated_at": "2025-01-01T08:00:00+08:00",
       "last_activity_at": "2024-08-01T21:45:00+08:00",
-      "last_activity_editor": "vscode/1.91.1/copilot/1.219.0"
+      "last_activity_editor": "vscode/1.91.1/copilot/1.219.0",
+      "assigning_team": {
+        "name": "Data",
+        "id": 11831014,
+        "node_id": "T_kwDOB7QoD84AtIbm",
+        "slug": "data",
+        "description": "UPD.UPD3",
+        "privacy": "closed",
+        "notification_setting": "notifications_enabled",
+        "url": "https://api.github.com/organizations/129247247/team/11831014",
+        "html_url": "https://github.com/orgs/91appit/teams/data",
+        "members_url": "https://api.github.com/organizations/129247247/team/11831014/members{/member}",
+        "repositories_url": "https://api.github.com/organizations/129247247/team/11831014/repos",
+        "permission": "pull",
+        "parent": null
+      }
     },
     {
       "created_at": "2023-03-31T10:56:39+08:00",
@@ -84,9 +114,24 @@
       },
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "updated_at": "2023-03-31T10:56:39+08:00",
-      "last_activity_at": "2024-12-31T11:53:28+08:00",
-      "last_activity_editor": "vscode/1.96.1/"
+      "updated_at": "2025-01-01T08:00:00+08:00",
+      "last_activity_at": "2024-12-31T17:44:19+08:00",
+      "last_activity_editor": "vscode/1.96.1/",
+      "assigning_team": {
+        "name": "Infrastructure",
+        "id": 11828340,
+        "node_id": "T_kwDOB7QoD84AtHx0",
+        "slug": "infrastructure",
+        "description": "IT.Infracstructure and Platform",
+        "privacy": "closed",
+        "notification_setting": "notifications_enabled",
+        "url": "https://api.github.com/organizations/129247247/team/11828340",
+        "html_url": "https://github.com/orgs/91appit/teams/infrastructure",
+        "members_url": "https://api.github.com/organizations/129247247/team/11828340/members{/member}",
+        "repositories_url": "https://api.github.com/organizations/129247247/team/11828340/repos",
+        "permission": "pull",
+        "parent": null
+      }
     },
     {
       "created_at": "2023-03-31T14:44:47+08:00",
@@ -113,9 +158,24 @@
       },
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "updated_at": "2023-03-31T14:44:47+08:00",
-      "last_activity_at": "2024-12-30T16:22:20+08:00",
-      "last_activity_editor": "JetBrains-RD/241.18034.76/copilot-intellij/1.5.28.7313"
+      "updated_at": "2025-01-01T08:00:00+08:00",
+      "last_activity_at": "2024-12-31T17:04:56+08:00",
+      "last_activity_editor": "JetBrains-RD/241.18034.76/",
+      "assigning_team": {
+        "name": "CSD.Commerce1",
+        "id": 11831004,
+        "node_id": "T_kwDOB7QoD84AtIbc",
+        "slug": "csd-commerce1",
+        "description": "CSD.Commerce1",
+        "privacy": "closed",
+        "notification_setting": "notifications_enabled",
+        "url": "https://api.github.com/organizations/129247247/team/11831004",
+        "html_url": "https://github.com/orgs/91appit/teams/csd-commerce1",
+        "members_url": "https://api.github.com/organizations/129247247/team/11831004/members{/member}",
+        "repositories_url": "https://api.github.com/organizations/129247247/team/11831004/repos",
+        "permission": "pull",
+        "parent": null
+      }
     },
     {
       "created_at": "2023-04-06T16:58:57+08:00",
@@ -142,9 +202,24 @@
       },
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "updated_at": "2023-04-06T16:58:57+08:00",
-      "last_activity_at": "2024-12-17T15:24:59+08:00",
-      "last_activity_editor": "JetBrains-JBC/242.23726.96/copilot-intellij/1.5.29.7524"
+      "updated_at": "2025-01-01T08:00:00+08:00",
+      "last_activity_at": "2024-12-31T16:23:02+08:00",
+      "last_activity_editor": "vscode/1.96.2/copilot-chat/0.23.1",
+      "assigning_team": {
+        "name": "PMO",
+        "id": 11831016,
+        "node_id": "T_kwDOB7QoD84AtIbo",
+        "slug": "pmo",
+        "description": "UPD.PMO & Others",
+        "privacy": "closed",
+        "notification_setting": "notifications_enabled",
+        "url": "https://api.github.com/organizations/129247247/team/11831016",
+        "html_url": "https://github.com/orgs/91appit/teams/pmo",
+        "members_url": "https://api.github.com/organizations/129247247/team/11831016/members{/member}",
+        "repositories_url": "https://api.github.com/organizations/129247247/team/11831016/repos",
+        "permission": "pull",
+        "parent": null
+      }
     },
     {
       "created_at": "2023-04-10T11:07:14+08:00",
@@ -171,9 +246,24 @@
       },
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "updated_at": "2023-04-10T11:07:14+08:00",
+      "updated_at": "2025-01-01T08:00:00+08:00",
       "last_activity_at": "2024-12-30T17:23:15+08:00",
-      "last_activity_editor": "JetBrains-AI/242.23339.11.2421.12550806/copilot-intellij/1.5.29.7524"
+      "last_activity_editor": "JetBrains-AI/242.23339.11.2421.12550806/copilot-intellij/1.5.29.7524",
+      "assigning_team": {
+        "name": "PMO",
+        "id": 11831016,
+        "node_id": "T_kwDOB7QoD84AtIbo",
+        "slug": "pmo",
+        "description": "UPD.PMO & Others",
+        "privacy": "closed",
+        "notification_setting": "notifications_enabled",
+        "url": "https://api.github.com/organizations/129247247/team/11831016",
+        "html_url": "https://github.com/orgs/91appit/teams/pmo",
+        "members_url": "https://api.github.com/organizations/129247247/team/11831016/members{/member}",
+        "repositories_url": "https://api.github.com/organizations/129247247/team/11831016/repos",
+        "permission": "pull",
+        "parent": null
+      }
     },
     {
       "created_at": "2023-07-28T11:43:09+08:00",
@@ -200,9 +290,24 @@
       },
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "updated_at": "2023-07-28T11:43:09+08:00",
+      "updated_at": "2025-01-01T08:00:00+08:00",
       "last_activity_at": "2024-12-30T17:31:17+08:00",
-      "last_activity_editor": "vscode/1.96.2/copilot/1.254.0"
+      "last_activity_editor": "vscode/1.96.2/copilot/1.254.0",
+      "assigning_team": {
+        "name": "PMO",
+        "id": 11831016,
+        "node_id": "T_kwDOB7QoD84AtIbo",
+        "slug": "pmo",
+        "description": "UPD.PMO & Others",
+        "privacy": "closed",
+        "notification_setting": "notifications_enabled",
+        "url": "https://api.github.com/organizations/129247247/team/11831016",
+        "html_url": "https://github.com/orgs/91appit/teams/pmo",
+        "members_url": "https://api.github.com/organizations/129247247/team/11831016/members{/member}",
+        "repositories_url": "https://api.github.com/organizations/129247247/team/11831016/repos",
+        "permission": "pull",
+        "parent": null
+      }
     },
     {
       "created_at": "2024-05-20T13:50:22+08:00",
@@ -229,9 +334,24 @@
       },
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "updated_at": "2024-05-20T13:50:22+08:00",
+      "updated_at": "2025-01-01T08:00:00+08:00",
       "last_activity_at": "2024-08-09T15:47:29+08:00",
-      "last_activity_editor": "vscode/1.92.0/copilot/1.221.0"
+      "last_activity_editor": "vscode/1.92.0/copilot/1.221.0",
+      "assigning_team": {
+        "name": "Data",
+        "id": 11831014,
+        "node_id": "T_kwDOB7QoD84AtIbm",
+        "slug": "data",
+        "description": "UPD.UPD3",
+        "privacy": "closed",
+        "notification_setting": "notifications_enabled",
+        "url": "https://api.github.com/organizations/129247247/team/11831014",
+        "html_url": "https://github.com/orgs/91appit/teams/data",
+        "members_url": "https://api.github.com/organizations/129247247/team/11831014/members{/member}",
+        "repositories_url": "https://api.github.com/organizations/129247247/team/11831014/repos",
+        "permission": "pull",
+        "parent": null
+      }
     },
     {
       "created_at": "2024-05-20T17:10:23+08:00",
@@ -258,9 +378,24 @@
       },
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "updated_at": "2024-05-20T17:10:23+08:00",
-      "last_activity_at": "2024-12-11T14:14:01+08:00",
-      "last_activity_editor": "JetBrains-RD/243.21565.191/copilot-intellij/1.5.29.7524"
+      "updated_at": "2025-01-01T08:00:00+08:00",
+      "last_activity_at": "2024-12-31T14:12:08+08:00",
+      "last_activity_editor": "JetBrains-RD/243.22562.250/copilot-intellij/1.5.30-242",
+      "assigning_team": {
+        "name": "Arch",
+        "id": 11831006,
+        "node_id": "T_kwDOB7QoD84AtIbe",
+        "slug": "arch",
+        "description": "Arch.Core & Arch.PE2",
+        "privacy": "closed",
+        "notification_setting": "notifications_enabled",
+        "url": "https://api.github.com/organizations/129247247/team/11831006",
+        "html_url": "https://github.com/orgs/91appit/teams/arch",
+        "members_url": "https://api.github.com/organizations/129247247/team/11831006/members{/member}",
+        "repositories_url": "https://api.github.com/organizations/129247247/team/11831006/repos",
+        "permission": "pull",
+        "parent": null
+      }
     },
     {
       "created_at": "2024-05-20T17:10:23+08:00",
@@ -287,9 +422,24 @@
       },
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "updated_at": "2024-05-20T17:10:23+08:00",
+      "updated_at": "2025-01-01T08:00:00+08:00",
       "last_activity_at": "2024-12-30T17:53:52+08:00",
-      "last_activity_editor": "JetBrains-RD/242.21829.210/"
+      "last_activity_editor": "JetBrains-RD/242.21829.210/",
+      "assigning_team": {
+        "name": "Arch",
+        "id": 11831006,
+        "node_id": "T_kwDOB7QoD84AtIbe",
+        "slug": "arch",
+        "description": "Arch.Core & Arch.PE2",
+        "privacy": "closed",
+        "notification_setting": "notifications_enabled",
+        "url": "https://api.github.com/organizations/129247247/team/11831006",
+        "html_url": "https://github.com/orgs/91appit/teams/arch",
+        "members_url": "https://api.github.com/organizations/129247247/team/11831006/members{/member}",
+        "repositories_url": "https://api.github.com/organizations/129247247/team/11831006/repos",
+        "permission": "pull",
+        "parent": null
+      }
     },
     {
       "created_at": "2024-05-20T17:10:24+08:00",
@@ -316,9 +466,24 @@
       },
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "updated_at": "2024-05-20T17:10:24+08:00",
+      "updated_at": "2025-01-01T08:00:00+08:00",
       "last_activity_at": "2024-12-27T17:52:43+08:00",
-      "last_activity_editor": "vscode/1.89.1/copilot/1.250.0"
+      "last_activity_editor": "vscode/1.89.1/copilot/1.250.0",
+      "assigning_team": {
+        "name": "Arch",
+        "id": 11831006,
+        "node_id": "T_kwDOB7QoD84AtIbe",
+        "slug": "arch",
+        "description": "Arch.Core & Arch.PE2",
+        "privacy": "closed",
+        "notification_setting": "notifications_enabled",
+        "url": "https://api.github.com/organizations/129247247/team/11831006",
+        "html_url": "https://github.com/orgs/91appit/teams/arch",
+        "members_url": "https://api.github.com/organizations/129247247/team/11831006/members{/member}",
+        "repositories_url": "https://api.github.com/organizations/129247247/team/11831006/repos",
+        "permission": "pull",
+        "parent": null
+      }
     },
     {
       "created_at": "2024-05-20T17:10:24+08:00",
@@ -345,9 +510,24 @@
       },
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "updated_at": "2024-05-20T17:10:24+08:00",
+      "updated_at": "2025-01-01T08:00:00+08:00",
       "last_activity_at": "2024-12-26T15:20:31+08:00",
-      "last_activity_editor": "vscode/1.92.2/"
+      "last_activity_editor": "vscode/1.92.2/",
+      "assigning_team": {
+        "name": "Infrastructure",
+        "id": 11828340,
+        "node_id": "T_kwDOB7QoD84AtHx0",
+        "slug": "infrastructure",
+        "description": "IT.Infracstructure and Platform",
+        "privacy": "closed",
+        "notification_setting": "notifications_enabled",
+        "url": "https://api.github.com/organizations/129247247/team/11828340",
+        "html_url": "https://github.com/orgs/91appit/teams/infrastructure",
+        "members_url": "https://api.github.com/organizations/129247247/team/11828340/members{/member}",
+        "repositories_url": "https://api.github.com/organizations/129247247/team/11828340/repos",
+        "permission": "pull",
+        "parent": null
+      }
     },
     {
       "created_at": "2024-05-20T17:10:24+08:00",
@@ -374,9 +554,24 @@
       },
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "updated_at": "2024-05-20T17:10:24+08:00",
-      "last_activity_at": "2024-12-31T11:44:58+08:00",
-      "last_activity_editor": "vscode/1.96.2/copilot/1.254.0"
+      "updated_at": "2025-01-01T08:00:00+08:00",
+      "last_activity_at": "2024-12-31T18:02:55+08:00",
+      "last_activity_editor": "vscode/1.96.2/copilot/1.254.0",
+      "assigning_team": {
+        "name": "Infrastructure",
+        "id": 11828340,
+        "node_id": "T_kwDOB7QoD84AtHx0",
+        "slug": "infrastructure",
+        "description": "IT.Infracstructure and Platform",
+        "privacy": "closed",
+        "notification_setting": "notifications_enabled",
+        "url": "https://api.github.com/organizations/129247247/team/11828340",
+        "html_url": "https://github.com/orgs/91appit/teams/infrastructure",
+        "members_url": "https://api.github.com/organizations/129247247/team/11828340/members{/member}",
+        "repositories_url": "https://api.github.com/organizations/129247247/team/11828340/repos",
+        "permission": "pull",
+        "parent": null
+      }
     },
     {
       "created_at": "2024-05-21T10:12:37+08:00",
@@ -403,9 +598,24 @@
       },
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "updated_at": "2024-05-21T10:12:37+08:00",
+      "updated_at": "2025-01-01T08:00:00+08:00",
       "last_activity_at": "2024-12-30T18:34:37+08:00",
-      "last_activity_editor": "vscode/1.96.0/copilot/1.252.0"
+      "last_activity_editor": "vscode/1.96.0/copilot/1.252.0",
+      "assigning_team": {
+        "name": "Infrastructure",
+        "id": 11828340,
+        "node_id": "T_kwDOB7QoD84AtHx0",
+        "slug": "infrastructure",
+        "description": "IT.Infracstructure and Platform",
+        "privacy": "closed",
+        "notification_setting": "notifications_enabled",
+        "url": "https://api.github.com/organizations/129247247/team/11828340",
+        "html_url": "https://github.com/orgs/91appit/teams/infrastructure",
+        "members_url": "https://api.github.com/organizations/129247247/team/11828340/members{/member}",
+        "repositories_url": "https://api.github.com/organizations/129247247/team/11828340/repos",
+        "permission": "pull",
+        "parent": null
+      }
     },
     {
       "created_at": "2024-05-21T14:58:42+08:00",
@@ -432,9 +642,24 @@
       },
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "updated_at": "2024-05-21T14:58:42+08:00",
-      "last_activity_at": "2024-12-27T19:43:07+08:00",
-      "last_activity_editor": "vscode/1.95.2/"
+      "updated_at": "2025-01-01T08:00:00+08:00",
+      "last_activity_at": "2024-12-31T15:03:42+08:00",
+      "last_activity_editor": "vscode/1.96.2/copilot/1.254.0",
+      "assigning_team": {
+        "name": "Infrastructure",
+        "id": 11828340,
+        "node_id": "T_kwDOB7QoD84AtHx0",
+        "slug": "infrastructure",
+        "description": "IT.Infracstructure and Platform",
+        "privacy": "closed",
+        "notification_setting": "notifications_enabled",
+        "url": "https://api.github.com/organizations/129247247/team/11828340",
+        "html_url": "https://github.com/orgs/91appit/teams/infrastructure",
+        "members_url": "https://api.github.com/organizations/129247247/team/11828340/members{/member}",
+        "repositories_url": "https://api.github.com/organizations/129247247/team/11828340/repos",
+        "permission": "pull",
+        "parent": null
+      }
     },
     {
       "created_at": "2024-05-21T15:22:27+08:00",
@@ -461,9 +686,24 @@
       },
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "updated_at": "2024-05-21T15:22:27+08:00",
+      "updated_at": "2025-01-01T08:00:00+08:00",
       "last_activity_at": "2024-12-30T11:54:58+08:00",
-      "last_activity_editor": "VisualStudio/17.12.3/"
+      "last_activity_editor": "VisualStudio/17.12.3/",
+      "assigning_team": {
+        "name": "CSD.Manager",
+        "id": 11831002,
+        "node_id": "T_kwDOB7QoD84AtIba",
+        "slug": "csd-manager",
+        "description": "CSD.Manager",
+        "privacy": "closed",
+        "notification_setting": "notifications_enabled",
+        "url": "https://api.github.com/organizations/129247247/team/11831002",
+        "html_url": "https://github.com/orgs/91appit/teams/csd-manager",
+        "members_url": "https://api.github.com/organizations/129247247/team/11831002/members{/member}",
+        "repositories_url": "https://api.github.com/organizations/129247247/team/11831002/repos",
+        "permission": "pull",
+        "parent": null
+      }
     },
     {
       "created_at": "2024-05-21T17:43:27+08:00",
@@ -490,9 +730,24 @@
       },
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "updated_at": "2024-05-21T17:43:27+08:00",
-      "last_activity_at": "2024-12-31T12:00:51+08:00",
-      "last_activity_editor": "VisualStudio/17.8.3/copilot-vs/1.206.0.0"
+      "updated_at": "2025-01-01T08:00:00+08:00",
+      "last_activity_at": "2024-12-31T13:54:35+08:00",
+      "last_activity_editor": "VisualStudio/17.8.3/copilot-vs/1.206.0.0",
+      "assigning_team": {
+        "name": "Arch",
+        "id": 11831006,
+        "node_id": "T_kwDOB7QoD84AtIbe",
+        "slug": "arch",
+        "description": "Arch.Core & Arch.PE2",
+        "privacy": "closed",
+        "notification_setting": "notifications_enabled",
+        "url": "https://api.github.com/organizations/129247247/team/11831006",
+        "html_url": "https://github.com/orgs/91appit/teams/arch",
+        "members_url": "https://api.github.com/organizations/129247247/team/11831006/members{/member}",
+        "repositories_url": "https://api.github.com/organizations/129247247/team/11831006/repos",
+        "permission": "pull",
+        "parent": null
+      }
     },
     {
       "created_at": "2024-05-22T14:49:37+08:00",
@@ -519,9 +774,24 @@
       },
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "updated_at": "2024-05-22T14:49:37+08:00",
+      "updated_at": "2025-01-01T08:00:00+08:00",
       "last_activity_at": "2024-12-26T18:10:10+08:00",
-      "last_activity_editor": "vscode/1.96.2/copilot-chat/0.23.2"
+      "last_activity_editor": "vscode/1.96.2/copilot-chat/0.23.2",
+      "assigning_team": {
+        "name": "Arch",
+        "id": 11831006,
+        "node_id": "T_kwDOB7QoD84AtIbe",
+        "slug": "arch",
+        "description": "Arch.Core & Arch.PE2",
+        "privacy": "closed",
+        "notification_setting": "notifications_enabled",
+        "url": "https://api.github.com/organizations/129247247/team/11831006",
+        "html_url": "https://github.com/orgs/91appit/teams/arch",
+        "members_url": "https://api.github.com/organizations/129247247/team/11831006/members{/member}",
+        "repositories_url": "https://api.github.com/organizations/129247247/team/11831006/repos",
+        "permission": "pull",
+        "parent": null
+      }
     },
     {
       "created_at": "2024-05-27T10:50:59+08:00",
@@ -548,9 +818,24 @@
       },
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "updated_at": "2024-05-27T10:50:59+08:00",
+      "updated_at": "2025-01-01T08:00:00+08:00",
       "last_activity_at": "2024-12-31T11:22:04+08:00",
-      "last_activity_editor": "vscode/1.92.2/copilot/1.250.0"
+      "last_activity_editor": "vscode/1.92.2/copilot/1.250.0",
+      "assigning_team": {
+        "name": "Infrastructure",
+        "id": 11828340,
+        "node_id": "T_kwDOB7QoD84AtHx0",
+        "slug": "infrastructure",
+        "description": "IT.Infracstructure and Platform",
+        "privacy": "closed",
+        "notification_setting": "notifications_enabled",
+        "url": "https://api.github.com/organizations/129247247/team/11828340",
+        "html_url": "https://github.com/orgs/91appit/teams/infrastructure",
+        "members_url": "https://api.github.com/organizations/129247247/team/11828340/members{/member}",
+        "repositories_url": "https://api.github.com/organizations/129247247/team/11828340/repos",
+        "permission": "pull",
+        "parent": null
+      }
     },
     {
       "created_at": "2024-05-31T09:41:27+08:00",
@@ -577,9 +862,24 @@
       },
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "updated_at": "2024-05-31T09:41:27+08:00",
+      "updated_at": "2025-01-01T08:00:00+08:00",
       "last_activity_at": "2024-12-02T17:50:16+08:00",
-      "last_activity_editor": "vscode/1.95.2/copilot/1.245.0"
+      "last_activity_editor": "vscode/1.95.2/copilot/1.245.0",
+      "assigning_team": {
+        "name": "PMO",
+        "id": 11831016,
+        "node_id": "T_kwDOB7QoD84AtIbo",
+        "slug": "pmo",
+        "description": "UPD.PMO & Others",
+        "privacy": "closed",
+        "notification_setting": "notifications_enabled",
+        "url": "https://api.github.com/organizations/129247247/team/11831016",
+        "html_url": "https://github.com/orgs/91appit/teams/pmo",
+        "members_url": "https://api.github.com/organizations/129247247/team/11831016/members{/member}",
+        "repositories_url": "https://api.github.com/organizations/129247247/team/11831016/repos",
+        "permission": "pull",
+        "parent": null
+      }
     },
     {
       "created_at": "2024-05-31T09:41:56+08:00",
@@ -606,9 +906,24 @@
       },
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "updated_at": "2024-05-31T09:41:56+08:00",
+      "updated_at": "2025-01-01T08:00:00+08:00",
       "last_activity_at": "2024-12-27T16:13:55+08:00",
-      "last_activity_editor": "copilot-chat-platform"
+      "last_activity_editor": "copilot-chat-platform",
+      "assigning_team": {
+        "name": "PMO",
+        "id": 11831016,
+        "node_id": "T_kwDOB7QoD84AtIbo",
+        "slug": "pmo",
+        "description": "UPD.PMO & Others",
+        "privacy": "closed",
+        "notification_setting": "notifications_enabled",
+        "url": "https://api.github.com/organizations/129247247/team/11831016",
+        "html_url": "https://github.com/orgs/91appit/teams/pmo",
+        "members_url": "https://api.github.com/organizations/129247247/team/11831016/members{/member}",
+        "repositories_url": "https://api.github.com/organizations/129247247/team/11831016/repos",
+        "permission": "pull",
+        "parent": null
+      }
     },
     {
       "created_at": "2024-06-10T23:49:00+08:00",
@@ -635,9 +950,24 @@
       },
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "updated_at": "2024-06-10T23:49:00+08:00",
-      "last_activity_at": "2024-12-31T00:33:26+08:00",
-      "last_activity_editor": "vscode/1.96.0/"
+      "updated_at": "2025-01-01T08:00:00+08:00",
+      "last_activity_at": "2024-12-31T22:15:26+08:00",
+      "last_activity_editor": "vscode/1.96.2/copilot-chat/0.23.2",
+      "assigning_team": {
+        "name": "ICOT",
+        "id": 11831192,
+        "node_id": "T_kwDOB7QoD84AtIeY",
+        "slug": "icot",
+        "description": "Proxy Test",
+        "privacy": "closed",
+        "notification_setting": "notifications_enabled",
+        "url": "https://api.github.com/organizations/129247247/team/11831192",
+        "html_url": "https://github.com/orgs/91appit/teams/icot",
+        "members_url": "https://api.github.com/organizations/129247247/team/11831192/members{/member}",
+        "repositories_url": "https://api.github.com/organizations/129247247/team/11831192/repos",
+        "permission": "pull",
+        "parent": null
+      }
     },
     {
       "created_at": "2024-06-28T11:11:18+08:00",
@@ -664,9 +994,24 @@
       },
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "updated_at": "2024-06-28T11:11:18+08:00",
-      "last_activity_at": "2024-12-31T02:52:19+08:00",
-      "last_activity_editor": "visualstudio/17.12.35527.113/copilot-vs-chat/17.12.38.29086"
+      "updated_at": "2025-01-01T08:00:00+08:00",
+      "last_activity_at": "2024-12-31T18:50:34+08:00",
+      "last_activity_editor": "VisualStudio/17.12.3/copilot-vs/17.12.38.29086",
+      "assigning_team": {
+        "name": "CSD.B2E12",
+        "id": 11831020,
+        "node_id": "T_kwDOB7QoD84AtIbs",
+        "slug": "csd-b2e12",
+        "description": "CSD.B2E12",
+        "privacy": "closed",
+        "notification_setting": "notifications_enabled",
+        "url": "https://api.github.com/organizations/129247247/team/11831020",
+        "html_url": "https://github.com/orgs/91appit/teams/csd-b2e12",
+        "members_url": "https://api.github.com/organizations/129247247/team/11831020/members{/member}",
+        "repositories_url": "https://api.github.com/organizations/129247247/team/11831020/repos",
+        "permission": "pull",
+        "parent": null
+      }
     },
     {
       "created_at": "2024-06-28T11:11:18+08:00",
@@ -693,9 +1038,24 @@
       },
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "updated_at": "2024-06-28T11:11:18+08:00",
-      "last_activity_at": "2024-12-31T11:21:42+08:00",
-      "last_activity_editor": "VisualStudio/17.12.3/"
+      "updated_at": "2025-01-01T08:00:00+08:00",
+      "last_activity_at": "2024-12-31T14:34:50+08:00",
+      "last_activity_editor": "vscode/1.96.2/",
+      "assigning_team": {
+        "name": "CSD.B2E12",
+        "id": 11831020,
+        "node_id": "T_kwDOB7QoD84AtIbs",
+        "slug": "csd-b2e12",
+        "description": "CSD.B2E12",
+        "privacy": "closed",
+        "notification_setting": "notifications_enabled",
+        "url": "https://api.github.com/organizations/129247247/team/11831020",
+        "html_url": "https://github.com/orgs/91appit/teams/csd-b2e12",
+        "members_url": "https://api.github.com/organizations/129247247/team/11831020/members{/member}",
+        "repositories_url": "https://api.github.com/organizations/129247247/team/11831020/repos",
+        "permission": "pull",
+        "parent": null
+      }
     },
     {
       "created_at": "2024-06-28T11:11:19+08:00",
@@ -722,9 +1082,24 @@
       },
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "updated_at": "2024-06-28T11:11:19+08:00",
-      "last_activity_at": "2024-12-30T17:52:45+08:00",
-      "last_activity_editor": "visualstudio/17.12.35527.113/copilot-vs-chat/17.12.38.29086"
+      "updated_at": "2025-01-01T08:00:00+08:00",
+      "last_activity_at": "2025-01-01T11:43:41+08:00",
+      "last_activity_editor": "JetBrains-RD/241.19072.26/copilot-intellij/1.5.22.6765",
+      "assigning_team": {
+        "name": "CSD.TL",
+        "id": 11831001,
+        "node_id": "T_kwDOB7QoD84AtIbZ",
+        "slug": "csd-tl",
+        "description": "CSD.TeamLeader",
+        "privacy": "closed",
+        "notification_setting": "notifications_enabled",
+        "url": "https://api.github.com/organizations/129247247/team/11831001",
+        "html_url": "https://github.com/orgs/91appit/teams/csd-tl",
+        "members_url": "https://api.github.com/organizations/129247247/team/11831001/members{/member}",
+        "repositories_url": "https://api.github.com/organizations/129247247/team/11831001/repos",
+        "permission": "pull",
+        "parent": null
+      }
     },
     {
       "created_at": "2024-06-28T11:11:19+08:00",
@@ -751,9 +1126,24 @@
       },
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "updated_at": "2024-06-28T11:11:19+08:00",
-      "last_activity_at": "2024-12-31T12:48:38+08:00",
-      "last_activity_editor": "vscode/1.91.0/copilot/1.250.0"
+      "updated_at": "2025-01-01T08:00:00+08:00",
+      "last_activity_at": "2025-01-01T12:13:44+08:00",
+      "last_activity_editor": "vscode/1.91.0/",
+      "assigning_team": {
+        "name": "Data",
+        "id": 11831014,
+        "node_id": "T_kwDOB7QoD84AtIbm",
+        "slug": "data",
+        "description": "UPD.UPD3",
+        "privacy": "closed",
+        "notification_setting": "notifications_enabled",
+        "url": "https://api.github.com/organizations/129247247/team/11831014",
+        "html_url": "https://github.com/orgs/91appit/teams/data",
+        "members_url": "https://api.github.com/organizations/129247247/team/11831014/members{/member}",
+        "repositories_url": "https://api.github.com/organizations/129247247/team/11831014/repos",
+        "permission": "pull",
+        "parent": null
+      }
     },
     {
       "created_at": "2024-06-28T11:11:19+08:00",
@@ -780,9 +1170,24 @@
       },
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "updated_at": "2024-06-28T11:11:19+08:00",
+      "updated_at": "2025-01-01T08:00:00+08:00",
       "last_activity_at": "2024-12-31T11:42:31+08:00",
-      "last_activity_editor": "JetBrains-RD/233.14015.60/copilot-intellij/1.5.20.6554"
+      "last_activity_editor": "JetBrains-RD/233.14015.60/copilot-intellij/1.5.20.6554",
+      "assigning_team": {
+        "name": "CSD.Commerce",
+        "id": 11831011,
+        "node_id": "T_kwDOB7QoD84AtIbj",
+        "slug": "csd-commerce",
+        "description": "CSD.Commerce4 & CSD.Commerce5",
+        "privacy": "closed",
+        "notification_setting": "notifications_enabled",
+        "url": "https://api.github.com/organizations/129247247/team/11831011",
+        "html_url": "https://github.com/orgs/91appit/teams/csd-commerce",
+        "members_url": "https://api.github.com/organizations/129247247/team/11831011/members{/member}",
+        "repositories_url": "https://api.github.com/organizations/129247247/team/11831011/repos",
+        "permission": "pull",
+        "parent": null
+      }
     },
     {
       "created_at": "2024-06-28T11:11:19+08:00",
@@ -809,9 +1214,24 @@
       },
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "updated_at": "2024-06-28T11:11:19+08:00",
+      "updated_at": "2025-01-01T08:00:00+08:00",
       "last_activity_at": "2024-12-30T17:02:54+08:00",
-      "last_activity_editor": "visualstudio/17.10.35013.160/copilot-vs-chat/0.2.889.30432"
+      "last_activity_editor": "visualstudio/17.10.35013.160/copilot-vs-chat/0.2.889.30432",
+      "assigning_team": {
+        "name": "CSD.Commerce",
+        "id": 11831011,
+        "node_id": "T_kwDOB7QoD84AtIbj",
+        "slug": "csd-commerce",
+        "description": "CSD.Commerce4 & CSD.Commerce5",
+        "privacy": "closed",
+        "notification_setting": "notifications_enabled",
+        "url": "https://api.github.com/organizations/129247247/team/11831011",
+        "html_url": "https://github.com/orgs/91appit/teams/csd-commerce",
+        "members_url": "https://api.github.com/organizations/129247247/team/11831011/members{/member}",
+        "repositories_url": "https://api.github.com/organizations/129247247/team/11831011/repos",
+        "permission": "pull",
+        "parent": null
+      }
     },
     {
       "created_at": "2024-06-28T11:11:19+08:00",
@@ -838,9 +1258,24 @@
       },
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "updated_at": "2024-06-28T11:11:19+08:00",
+      "updated_at": "2025-01-01T08:00:00+08:00",
       "last_activity_at": "2024-12-30T15:22:05+08:00",
-      "last_activity_editor": "JetBrains-RD/233.14475.66/copilot-intellij/1.5.17.6356"
+      "last_activity_editor": "JetBrains-RD/233.14475.66/copilot-intellij/1.5.17.6356",
+      "assigning_team": {
+        "name": "CSD.Commerce",
+        "id": 11831011,
+        "node_id": "T_kwDOB7QoD84AtIbj",
+        "slug": "csd-commerce",
+        "description": "CSD.Commerce4 & CSD.Commerce5",
+        "privacy": "closed",
+        "notification_setting": "notifications_enabled",
+        "url": "https://api.github.com/organizations/129247247/team/11831011",
+        "html_url": "https://github.com/orgs/91appit/teams/csd-commerce",
+        "members_url": "https://api.github.com/organizations/129247247/team/11831011/members{/member}",
+        "repositories_url": "https://api.github.com/organizations/129247247/team/11831011/repos",
+        "permission": "pull",
+        "parent": null
+      }
     },
     {
       "created_at": "2024-06-28T11:11:20+08:00",
@@ -867,9 +1302,24 @@
       },
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "updated_at": "2024-06-28T11:11:20+08:00",
-      "last_activity_at": "2024-12-31T04:04:34+08:00",
-      "last_activity_editor": "JetBrains-RD/243.21565.191/"
+      "updated_at": "2025-01-01T08:00:00+08:00",
+      "last_activity_at": "2024-12-31T19:00:38+08:00",
+      "last_activity_editor": "vscode/1.96.2/copilot/1.254.0",
+      "assigning_team": {
+        "name": "CSD.TL",
+        "id": 11831001,
+        "node_id": "T_kwDOB7QoD84AtIbZ",
+        "slug": "csd-tl",
+        "description": "CSD.TeamLeader",
+        "privacy": "closed",
+        "notification_setting": "notifications_enabled",
+        "url": "https://api.github.com/organizations/129247247/team/11831001",
+        "html_url": "https://github.com/orgs/91appit/teams/csd-tl",
+        "members_url": "https://api.github.com/organizations/129247247/team/11831001/members{/member}",
+        "repositories_url": "https://api.github.com/organizations/129247247/team/11831001/repos",
+        "permission": "pull",
+        "parent": null
+      }
     },
     {
       "created_at": "2024-06-28T11:11:20+08:00",
@@ -896,9 +1346,24 @@
       },
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "updated_at": "2024-06-28T11:11:20+08:00",
-      "last_activity_at": "2024-12-31T12:02:04+08:00",
-      "last_activity_editor": "VisualStudio/17.12.3/copilot-vs/17.12.38.29086"
+      "updated_at": "2025-01-01T08:00:00+08:00",
+      "last_activity_at": "2024-12-31T17:51:12+08:00",
+      "last_activity_editor": "VisualStudio/17.12.3/copilot-vs/17.12.38.29086",
+      "assigning_team": {
+        "name": "CSD.B2E12",
+        "id": 11831020,
+        "node_id": "T_kwDOB7QoD84AtIbs",
+        "slug": "csd-b2e12",
+        "description": "CSD.B2E12",
+        "privacy": "closed",
+        "notification_setting": "notifications_enabled",
+        "url": "https://api.github.com/organizations/129247247/team/11831020",
+        "html_url": "https://github.com/orgs/91appit/teams/csd-b2e12",
+        "members_url": "https://api.github.com/organizations/129247247/team/11831020/members{/member}",
+        "repositories_url": "https://api.github.com/organizations/129247247/team/11831020/repos",
+        "permission": "pull",
+        "parent": null
+      }
     },
     {
       "created_at": "2024-07-02T16:20:20+08:00",
@@ -925,9 +1390,24 @@
       },
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "updated_at": "2024-07-02T16:20:20+08:00",
-      "last_activity_at": "2024-12-31T11:41:46+08:00",
-      "last_activity_editor": "vscode/1.91.1/copilot/1.250.0"
+      "updated_at": "2025-01-01T08:00:00+08:00",
+      "last_activity_at": "2024-12-31T22:02:29+08:00",
+      "last_activity_editor": "vscode/1.91.1/",
+      "assigning_team": {
+        "name": "Data",
+        "id": 11831014,
+        "node_id": "T_kwDOB7QoD84AtIbm",
+        "slug": "data",
+        "description": "UPD.UPD3",
+        "privacy": "closed",
+        "notification_setting": "notifications_enabled",
+        "url": "https://api.github.com/organizations/129247247/team/11831014",
+        "html_url": "https://github.com/orgs/91appit/teams/data",
+        "members_url": "https://api.github.com/organizations/129247247/team/11831014/members{/member}",
+        "repositories_url": "https://api.github.com/organizations/129247247/team/11831014/repos",
+        "permission": "pull",
+        "parent": null
+      }
     },
     {
       "created_at": "2024-07-05T11:17:46+08:00",
@@ -954,9 +1434,24 @@
       },
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "updated_at": "2024-07-05T11:17:46+08:00",
-      "last_activity_at": "2024-12-31T11:41:09+08:00",
-      "last_activity_editor": "vscode/1.91.1/copilot-chat/0.17.1"
+      "updated_at": "2025-01-01T08:00:00+08:00",
+      "last_activity_at": "2024-12-31T20:10:40+08:00",
+      "last_activity_editor": "visualstudio/17.10.35013.160/copilot-vs-chat/0.2.889.30432",
+      "assigning_team": {
+        "name": "CSD.Commerce",
+        "id": 11831011,
+        "node_id": "T_kwDOB7QoD84AtIbj",
+        "slug": "csd-commerce",
+        "description": "CSD.Commerce4 & CSD.Commerce5",
+        "privacy": "closed",
+        "notification_setting": "notifications_enabled",
+        "url": "https://api.github.com/organizations/129247247/team/11831011",
+        "html_url": "https://github.com/orgs/91appit/teams/csd-commerce",
+        "members_url": "https://api.github.com/organizations/129247247/team/11831011/members{/member}",
+        "repositories_url": "https://api.github.com/organizations/129247247/team/11831011/repos",
+        "permission": "pull",
+        "parent": null
+      }
     },
     {
       "created_at": "2024-07-29T17:30:47+08:00",
@@ -983,9 +1478,24 @@
       },
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "updated_at": "2024-07-29T17:30:47+08:00",
-      "last_activity_at": "2024-12-30T23:14:06+08:00",
-      "last_activity_editor": "VisualStudio/17.11.6/"
+      "updated_at": "2025-01-01T08:00:00+08:00",
+      "last_activity_at": "2024-12-31T17:00:13+08:00",
+      "last_activity_editor": "VisualStudio/17.12.3/copilot-vs/17.12.38.29086",
+      "assigning_team": {
+        "name": "Arch",
+        "id": 11831006,
+        "node_id": "T_kwDOB7QoD84AtIbe",
+        "slug": "arch",
+        "description": "Arch.Core & Arch.PE2",
+        "privacy": "closed",
+        "notification_setting": "notifications_enabled",
+        "url": "https://api.github.com/organizations/129247247/team/11831006",
+        "html_url": "https://github.com/orgs/91appit/teams/arch",
+        "members_url": "https://api.github.com/organizations/129247247/team/11831006/members{/member}",
+        "repositories_url": "https://api.github.com/organizations/129247247/team/11831006/repos",
+        "permission": "pull",
+        "parent": null
+      }
     },
     {
       "created_at": "2024-08-30T10:25:55+08:00",
@@ -1010,7 +1520,7 @@
         "user_view_type": "public",
         "site_admin": false
       },
-      "pending_cancellation_date": null,
+      "pending_cancellation_date": "2025-01-08",
       "plan_type": "business",
       "updated_at": "2024-08-30T10:25:55+08:00",
       "last_activity_at": "2024-09-03T14:42:18+08:00",
@@ -1039,10 +1549,10 @@
         "user_view_type": "public",
         "site_admin": false
       },
-      "pending_cancellation_date": null,
+      "pending_cancellation_date": "2025-01-08",
       "plan_type": "business",
       "updated_at": "2024-08-30T10:25:55+08:00",
-      "last_activity_at": "2024-12-31T12:49:13+08:00",
+      "last_activity_at": "2024-12-31T18:24:21+08:00",
       "last_activity_editor": "JetBrains-WS/243.22562.222/copilot-intellij/1.5.30-242"
     },
     {
@@ -1068,7 +1578,7 @@
         "user_view_type": "public",
         "site_admin": false
       },
-      "pending_cancellation_date": null,
+      "pending_cancellation_date": "2025-01-08",
       "plan_type": "business",
       "updated_at": "2024-08-30T10:26:12+08:00",
       "last_activity_at": null,
@@ -1099,9 +1609,24 @@
       },
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "updated_at": "2024-08-30T10:32:24+08:00",
+      "updated_at": "2025-01-01T08:00:00+08:00",
       "last_activity_at": "2024-12-30T11:20:59+08:00",
-      "last_activity_editor": "VisualStudio/17.9.1/copilot-vs/1.206.0.0"
+      "last_activity_editor": "VisualStudio/17.9.1/copilot-vs/1.206.0.0",
+      "assigning_team": {
+        "name": "CSD.TL",
+        "id": 11831001,
+        "node_id": "T_kwDOB7QoD84AtIbZ",
+        "slug": "csd-tl",
+        "description": "CSD.TeamLeader",
+        "privacy": "closed",
+        "notification_setting": "notifications_enabled",
+        "url": "https://api.github.com/organizations/129247247/team/11831001",
+        "html_url": "https://github.com/orgs/91appit/teams/csd-tl",
+        "members_url": "https://api.github.com/organizations/129247247/team/11831001/members{/member}",
+        "repositories_url": "https://api.github.com/organizations/129247247/team/11831001/repos",
+        "permission": "pull",
+        "parent": null
+      }
     },
     {
       "created_at": "2024-08-30T10:32:24+08:00",
@@ -1128,9 +1653,24 @@
       },
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "updated_at": "2024-08-30T10:32:24+08:00",
-      "last_activity_at": "2024-12-27T18:50:13+08:00",
-      "last_activity_editor": "visualstudio/17.8.34322.80/copilot-vs-chat/0.2.765.20217"
+      "updated_at": "2025-01-01T08:00:00+08:00",
+      "last_activity_at": "2024-12-31T17:22:14+08:00",
+      "last_activity_editor": "visualstudio/17.8.34322.80/copilot-vs-chat/0.2.765.20217",
+      "assigning_team": {
+        "name": "CSD.Payment",
+        "id": 11831015,
+        "node_id": "T_kwDOB7QoD84AtIbn",
+        "slug": "csd-payment",
+        "description": "CSD.Payment1 & CSD.Payment2 & CSD.Payment3",
+        "privacy": "closed",
+        "notification_setting": "notifications_enabled",
+        "url": "https://api.github.com/organizations/129247247/team/11831015",
+        "html_url": "https://github.com/orgs/91appit/teams/csd-payment",
+        "members_url": "https://api.github.com/organizations/129247247/team/11831015/members{/member}",
+        "repositories_url": "https://api.github.com/organizations/129247247/team/11831015/repos",
+        "permission": "pull",
+        "parent": null
+      }
     },
     {
       "created_at": "2024-08-30T10:32:25+08:00",
@@ -1157,9 +1697,24 @@
       },
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "updated_at": "2024-08-30T10:32:25+08:00",
-      "last_activity_at": "2024-12-30T11:30:14+08:00",
-      "last_activity_editor": "VisualStudio/17.12.3/"
+      "updated_at": "2025-01-01T08:00:00+08:00",
+      "last_activity_at": "2024-12-31T18:22:32+08:00",
+      "last_activity_editor": "VisualStudio/17.12.3/copilot-vs/17.12.38.29086",
+      "assigning_team": {
+        "name": "CSD.Payment",
+        "id": 11831015,
+        "node_id": "T_kwDOB7QoD84AtIbn",
+        "slug": "csd-payment",
+        "description": "CSD.Payment1 & CSD.Payment2 & CSD.Payment3",
+        "privacy": "closed",
+        "notification_setting": "notifications_enabled",
+        "url": "https://api.github.com/organizations/129247247/team/11831015",
+        "html_url": "https://github.com/orgs/91appit/teams/csd-payment",
+        "members_url": "https://api.github.com/organizations/129247247/team/11831015/members{/member}",
+        "repositories_url": "https://api.github.com/organizations/129247247/team/11831015/repos",
+        "permission": "pull",
+        "parent": null
+      }
     },
     {
       "created_at": "2024-08-30T10:32:25+08:00",
@@ -1186,9 +1741,24 @@
       },
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "updated_at": "2024-08-30T10:32:25+08:00",
-      "last_activity_at": "2024-12-31T07:35:00+08:00",
-      "last_activity_editor": "JetBrains-RD/233.15026.35/copilot-intellij/1.5.29.7524"
+      "updated_at": "2025-01-01T08:00:00+08:00",
+      "last_activity_at": "2024-12-31T16:02:51+08:00",
+      "last_activity_editor": "JetBrains-RD/233.15026.35/",
+      "assigning_team": {
+        "name": "CSD.TL",
+        "id": 11831001,
+        "node_id": "T_kwDOB7QoD84AtIbZ",
+        "slug": "csd-tl",
+        "description": "CSD.TeamLeader",
+        "privacy": "closed",
+        "notification_setting": "notifications_enabled",
+        "url": "https://api.github.com/organizations/129247247/team/11831001",
+        "html_url": "https://github.com/orgs/91appit/teams/csd-tl",
+        "members_url": "https://api.github.com/organizations/129247247/team/11831001/members{/member}",
+        "repositories_url": "https://api.github.com/organizations/129247247/team/11831001/repos",
+        "permission": "pull",
+        "parent": null
+      }
     },
     {
       "created_at": "2024-08-30T10:32:25+08:00",
@@ -1215,9 +1785,24 @@
       },
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "updated_at": "2024-08-30T10:32:25+08:00",
-      "last_activity_at": "2024-12-31T12:48:55+08:00",
-      "last_activity_editor": "JetBrains-RD/233.14475.66/copilot-intellij/1.5.20.6554"
+      "updated_at": "2025-01-01T08:00:00+08:00",
+      "last_activity_at": "2024-12-31T18:42:40+08:00",
+      "last_activity_editor": "JetBrains-RD/233.14475.66/",
+      "assigning_team": {
+        "name": "CSD.Payment",
+        "id": 11831015,
+        "node_id": "T_kwDOB7QoD84AtIbn",
+        "slug": "csd-payment",
+        "description": "CSD.Payment1 & CSD.Payment2 & CSD.Payment3",
+        "privacy": "closed",
+        "notification_setting": "notifications_enabled",
+        "url": "https://api.github.com/organizations/129247247/team/11831015",
+        "html_url": "https://github.com/orgs/91appit/teams/csd-payment",
+        "members_url": "https://api.github.com/organizations/129247247/team/11831015/members{/member}",
+        "repositories_url": "https://api.github.com/organizations/129247247/team/11831015/repos",
+        "permission": "pull",
+        "parent": null
+      }
     },
     {
       "created_at": "2024-12-09T09:42:56+08:00",
@@ -1244,9 +1829,24 @@
       },
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "updated_at": "2024-12-09T09:42:56+08:00",
+      "updated_at": "2025-01-01T08:00:00+08:00",
       "last_activity_at": "2024-12-30T18:22:19+08:00",
-      "last_activity_editor": "vscode/1.96.1/"
+      "last_activity_editor": "vscode/1.96.1/",
+      "assigning_team": {
+        "name": "ICOT",
+        "id": 11831192,
+        "node_id": "T_kwDOB7QoD84AtIeY",
+        "slug": "icot",
+        "description": "Proxy Test",
+        "privacy": "closed",
+        "notification_setting": "notifications_enabled",
+        "url": "https://api.github.com/organizations/129247247/team/11831192",
+        "html_url": "https://github.com/orgs/91appit/teams/icot",
+        "members_url": "https://api.github.com/organizations/129247247/team/11831192/members{/member}",
+        "repositories_url": "https://api.github.com/organizations/129247247/team/11831192/repos",
+        "permission": "pull",
+        "parent": null
+      }
     },
     {
       "created_at": "2024-12-17T15:02:20+08:00",
@@ -1273,9 +1873,24 @@
       },
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "updated_at": "2024-12-17T15:02:20+08:00",
-      "last_activity_at": "2024-12-31T10:03:32+08:00",
-      "last_activity_editor": "vscode/1.96.2/"
+      "updated_at": "2025-01-01T08:00:00+08:00",
+      "last_activity_at": "2024-12-31T17:13:46+08:00",
+      "last_activity_editor": "vscode/1.96.2/",
+      "assigning_team": {
+        "name": "CSD.Manager",
+        "id": 11831002,
+        "node_id": "T_kwDOB7QoD84AtIba",
+        "slug": "csd-manager",
+        "description": "CSD.Manager",
+        "privacy": "closed",
+        "notification_setting": "notifications_enabled",
+        "url": "https://api.github.com/organizations/129247247/team/11831002",
+        "html_url": "https://github.com/orgs/91appit/teams/csd-manager",
+        "members_url": "https://api.github.com/organizations/129247247/team/11831002/members{/member}",
+        "repositories_url": "https://api.github.com/organizations/129247247/team/11831002/repos",
+        "permission": "pull",
+        "parent": null
+      }
     },
     {
       "created_at": "2024-12-19T16:04:06+08:00",
@@ -1302,9 +1917,24 @@
       },
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "updated_at": "2024-12-19T16:04:06+08:00",
+      "updated_at": "2025-01-01T08:00:00+08:00",
       "last_activity_at": "2024-12-26T17:30:25+08:00",
-      "last_activity_editor": "visualstudio/17.12.35527.113/copilot-vs-chat/17.12.38.29086"
+      "last_activity_editor": "visualstudio/17.12.35527.113/copilot-vs-chat/17.12.38.29086",
+      "assigning_team": {
+        "name": "CSD.Channel",
+        "id": 11831013,
+        "node_id": "T_kwDOB7QoD84AtIbl",
+        "slug": "csd-channel",
+        "description": "CSD.Channel1",
+        "privacy": "closed",
+        "notification_setting": "notifications_enabled",
+        "url": "https://api.github.com/organizations/129247247/team/11831013",
+        "html_url": "https://github.com/orgs/91appit/teams/csd-channel",
+        "members_url": "https://api.github.com/organizations/129247247/team/11831013/members{/member}",
+        "repositories_url": "https://api.github.com/organizations/129247247/team/11831013/repos",
+        "permission": "pull",
+        "parent": null
+      }
     },
     {
       "created_at": "2024-12-19T16:30:52+08:00",
@@ -1331,9 +1961,24 @@
       },
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "updated_at": "2024-12-19T16:30:52+08:00",
-      "last_activity_at": "2024-12-27T21:38:32+08:00",
-      "last_activity_editor": "vscode/1.95.3/copilot-chat/0.22.4"
+      "updated_at": "2025-01-01T08:00:00+08:00",
+      "last_activity_at": "2025-01-01T05:33:51+08:00",
+      "last_activity_editor": "visualstudio/17.12.35527.113/copilot-vs-chat/17.12.38.29086",
+      "assigning_team": {
+        "name": "CSD.Channel",
+        "id": 11831013,
+        "node_id": "T_kwDOB7QoD84AtIbl",
+        "slug": "csd-channel",
+        "description": "CSD.Channel1",
+        "privacy": "closed",
+        "notification_setting": "notifications_enabled",
+        "url": "https://api.github.com/organizations/129247247/team/11831013",
+        "html_url": "https://github.com/orgs/91appit/teams/csd-channel",
+        "members_url": "https://api.github.com/organizations/129247247/team/11831013/members{/member}",
+        "repositories_url": "https://api.github.com/organizations/129247247/team/11831013/repos",
+        "permission": "pull",
+        "parent": null
+      }
     },
     {
       "created_at": "2024-12-19T16:33:20+08:00",
@@ -1360,9 +2005,24 @@
       },
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "updated_at": "2024-12-19T16:33:20+08:00",
+      "updated_at": "2025-01-01T08:00:00+08:00",
       "last_activity_at": "2024-12-30T16:23:56+08:00",
-      "last_activity_editor": "VisualStudio/17.12.2/copilot-vs/17.12.38.29086"
+      "last_activity_editor": "VisualStudio/17.12.2/copilot-vs/17.12.38.29086",
+      "assigning_team": {
+        "name": "CSD.Channel",
+        "id": 11831013,
+        "node_id": "T_kwDOB7QoD84AtIbl",
+        "slug": "csd-channel",
+        "description": "CSD.Channel1",
+        "privacy": "closed",
+        "notification_setting": "notifications_enabled",
+        "url": "https://api.github.com/organizations/129247247/team/11831013",
+        "html_url": "https://github.com/orgs/91appit/teams/csd-channel",
+        "members_url": "https://api.github.com/organizations/129247247/team/11831013/members{/member}",
+        "repositories_url": "https://api.github.com/organizations/129247247/team/11831013/repos",
+        "permission": "pull",
+        "parent": null
+      }
     },
     {
       "created_at": "2024-12-19T17:04:26+08:00",
@@ -1389,9 +2049,24 @@
       },
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "updated_at": "2024-12-19T17:04:26+08:00",
-      "last_activity_at": "2024-12-31T12:01:36+08:00",
-      "last_activity_editor": "visualstudio/17.12.35527.113/copilot-vs-chat/17.12.38.29086"
+      "updated_at": "2025-01-01T08:00:00+08:00",
+      "last_activity_at": "2024-12-31T17:22:55+08:00",
+      "last_activity_editor": "VisualStudio/17.12.3/copilot-vs/17.12.38.29086",
+      "assigning_team": {
+        "name": "CSD.Channel",
+        "id": 11831013,
+        "node_id": "T_kwDOB7QoD84AtIbl",
+        "slug": "csd-channel",
+        "description": "CSD.Channel1",
+        "privacy": "closed",
+        "notification_setting": "notifications_enabled",
+        "url": "https://api.github.com/organizations/129247247/team/11831013",
+        "html_url": "https://github.com/orgs/91appit/teams/csd-channel",
+        "members_url": "https://api.github.com/organizations/129247247/team/11831013/members{/member}",
+        "repositories_url": "https://api.github.com/organizations/129247247/team/11831013/repos",
+        "permission": "pull",
+        "parent": null
+      }
     },
     {
       "created_at": "2024-12-20T16:16:29+08:00",
@@ -1418,9 +2093,24 @@
       },
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "updated_at": "2024-12-20T16:16:29+08:00",
-      "last_activity_at": "2024-12-30T15:01:07+08:00",
-      "last_activity_editor": "visualstudio/17.12.35527.113/copilot-vs-chat/17.12.38.29086"
+      "updated_at": "2025-01-01T08:00:00+08:00",
+      "last_activity_at": "2024-12-31T16:32:16+08:00",
+      "last_activity_editor": "visualstudio/17.12.35527.113/copilot-vs-chat/17.12.38.29086",
+      "assigning_team": {
+        "name": "CSD.Channel",
+        "id": 11831013,
+        "node_id": "T_kwDOB7QoD84AtIbl",
+        "slug": "csd-channel",
+        "description": "CSD.Channel1",
+        "privacy": "closed",
+        "notification_setting": "notifications_enabled",
+        "url": "https://api.github.com/organizations/129247247/team/11831013",
+        "html_url": "https://github.com/orgs/91appit/teams/csd-channel",
+        "members_url": "https://api.github.com/organizations/129247247/team/11831013/members{/member}",
+        "repositories_url": "https://api.github.com/organizations/129247247/team/11831013/repos",
+        "permission": "pull",
+        "parent": null
+      }
     },
     {
       "created_at": "2024-12-26T15:21:50+08:00",
@@ -1445,11 +2135,26 @@
         "user_view_type": "public",
         "site_admin": false
       },
-      "pending_cancellation_date": "2025-01-08",
+      "pending_cancellation_date": null,
       "plan_type": "business",
-      "updated_at": "2024-12-30T08:00:00+08:00",
-      "last_activity_at": "2024-12-31T12:04:07+08:00",
-      "last_activity_editor": "vscode/1.95.3/copilot/1.250.0"
+      "updated_at": "2025-01-01T08:00:00+08:00",
+      "last_activity_at": "2024-12-31T23:34:48+08:00",
+      "last_activity_editor": "vscode/1.95.3/",
+      "assigning_team": {
+        "name": "ICOT",
+        "id": 11831192,
+        "node_id": "T_kwDOB7QoD84AtIeY",
+        "slug": "icot",
+        "description": "Proxy Test",
+        "privacy": "closed",
+        "notification_setting": "notifications_enabled",
+        "url": "https://api.github.com/organizations/129247247/team/11831192",
+        "html_url": "https://github.com/orgs/91appit/teams/icot",
+        "members_url": "https://api.github.com/organizations/129247247/team/11831192/members{/member}",
+        "repositories_url": "https://api.github.com/organizations/129247247/team/11831192/repos",
+        "permission": "pull",
+        "parent": null
+      }
     }
   ]
 }
