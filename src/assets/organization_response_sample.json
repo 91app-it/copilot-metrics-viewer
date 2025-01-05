@@ -1,27 +1,5 @@
 [
   {
-    "day": "2024-12-07",
-    "total_suggestions_count": 4,
-    "total_acceptances_count": 0,
-    "total_lines_suggested": 7,
-    "total_lines_accepted": 0,
-    "total_active_users": 1,
-    "total_chat_acceptances": 0,
-    "total_chat_turns": 0,
-    "total_active_chat_users": 0,
-    "breakdown": [
-      {
-        "language": "sql",
-        "editor": "jetbrains",
-        "suggestions_count": 4,
-        "acceptances_count": 0,
-        "lines_suggested": 7,
-        "lines_accepted": 0,
-        "active_users": 1
-      }
-    ]
-  },
-  {
     "day": "2024-12-08",
     "total_suggestions_count": 57,
     "total_acceptances_count": 10,
@@ -4202,6 +4180,82 @@
         "acceptances_count": 5,
         "lines_suggested": 76,
         "lines_accepted": 0,
+        "active_users": 2
+      }
+    ]
+  },
+  {
+    "day": "2025-01-04",
+    "total_suggestions_count": 623,
+    "total_acceptances_count": 210,
+    "total_lines_suggested": 1486,
+    "total_lines_accepted": 307,
+    "total_active_users": 9,
+    "total_chat_acceptances": 0,
+    "total_chat_turns": 0,
+    "total_active_chat_users": 0,
+    "breakdown": [
+      {
+        "language": "typescriptreact",
+        "editor": "vscode",
+        "suggestions_count": 103,
+        "acceptances_count": 51,
+        "lines_suggested": 188,
+        "lines_accepted": 95,
+        "active_users": 2
+      },
+      {
+        "language": "go",
+        "editor": "vscode",
+        "suggestions_count": 138,
+        "acceptances_count": 72,
+        "lines_suggested": 195,
+        "lines_accepted": 94,
+        "active_users": 2
+      },
+      {
+        "language": "sql",
+        "editor": "vscode",
+        "suggestions_count": 8,
+        "acceptances_count": 3,
+        "lines_suggested": 12,
+        "lines_accepted": 3,
+        "active_users": 2
+      },
+      {
+        "language": "c#",
+        "editor": "visual_studio",
+        "suggestions_count": 116,
+        "acceptances_count": 36,
+        "lines_suggested": 216,
+        "lines_accepted": 107,
+        "active_users": 5
+      },
+      {
+        "language": "python",
+        "editor": "jetbrains",
+        "suggestions_count": 218,
+        "acceptances_count": 40,
+        "lines_suggested": 727,
+        "lines_accepted": 0,
+        "active_users": 2
+      },
+      {
+        "language": "c#",
+        "editor": "jetbrains",
+        "suggestions_count": 29,
+        "acceptances_count": 7,
+        "lines_suggested": 125,
+        "lines_accepted": 7,
+        "active_users": 2
+      },
+      {
+        "language": "sql",
+        "editor": "jetbrains",
+        "suggestions_count": 11,
+        "acceptances_count": 1,
+        "lines_suggested": 23,
+        "lines_accepted": 1,
         "active_users": 2
       }
     ]
