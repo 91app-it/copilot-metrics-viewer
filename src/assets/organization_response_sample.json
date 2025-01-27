@@ -1,54 +1,5 @@
 [
   {
-    "day": "2024-12-29",
-    "total_suggestions_count": 107,
-    "total_acceptances_count": 59,
-    "total_lines_suggested": 378,
-    "total_lines_accepted": 147,
-    "total_active_users": 4,
-    "total_chat_acceptances": 4,
-    "total_chat_turns": 80,
-    "total_active_chat_users": 1,
-    "breakdown": [
-      {
-        "language": "python",
-        "editor": "vscode",
-        "suggestions_count": 8,
-        "acceptances_count": 6,
-        "lines_suggested": 10,
-        "lines_accepted": 4,
-        "active_users": 2
-      },
-      {
-        "language": "json",
-        "editor": "vscode",
-        "suggestions_count": 23,
-        "acceptances_count": 14,
-        "lines_suggested": 53,
-        "lines_accepted": 37,
-        "active_users": 2
-      },
-      {
-        "language": "c#",
-        "editor": "visual_studio",
-        "suggestions_count": 74,
-        "acceptances_count": 39,
-        "lines_suggested": 311,
-        "lines_accepted": 106,
-        "active_users": 3
-      },
-      {
-        "language": "sql",
-        "editor": "jetbrains",
-        "suggestions_count": 2,
-        "acceptances_count": 0,
-        "lines_suggested": 4,
-        "lines_accepted": 0,
-        "active_users": 1
-      }
-    ]
-  },
-  {
     "day": "2024-12-30",
     "total_suggestions_count": 1267,
     "total_acceptances_count": 331,
@@ -4984,6 +4935,46 @@
         "suggestions_count": 1,
         "acceptances_count": 0,
         "lines_suggested": 2,
+        "lines_accepted": 0,
+        "active_users": 1
+      }
+    ]
+  },
+  {
+    "day": "2025-01-26",
+    "total_suggestions_count": 82,
+    "total_acceptances_count": 20,
+    "total_lines_suggested": 147,
+    "total_lines_accepted": 13,
+    "total_active_users": 2,
+    "total_chat_acceptances": 2,
+    "total_chat_turns": 5,
+    "total_active_chat_users": 2,
+    "breakdown": [
+      {
+        "language": "typescriptreact",
+        "editor": "vscode",
+        "suggestions_count": 76,
+        "acceptances_count": 19,
+        "lines_suggested": 141,
+        "lines_accepted": 12,
+        "active_users": 2
+      },
+      {
+        "language": "typescript",
+        "editor": "vscode",
+        "suggestions_count": 3,
+        "acceptances_count": 1,
+        "lines_suggested": 3,
+        "lines_accepted": 1,
+        "active_users": 2
+      },
+      {
+        "language": "c#",
+        "editor": "visual_studio",
+        "suggestions_count": 3,
+        "acceptances_count": 0,
+        "lines_suggested": 3,
         "lines_accepted": 0,
         "active_users": 1
       }
