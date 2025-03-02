@@ -26,7 +26,7 @@
       },
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "updated_at": "2025-03-01T08:00:00+08:00",
+      "updated_at": "2025-03-02T08:00:00+08:00",
       "last_activity_at": null,
       "last_activity_editor": null,
       "assigning_team": {
@@ -70,7 +70,7 @@
       },
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "updated_at": "2025-03-01T08:00:00+08:00",
+      "updated_at": "2025-03-02T08:00:00+08:00",
       "last_activity_at": null,
       "last_activity_editor": null,
       "assigning_team": {
@@ -114,7 +114,7 @@
       },
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "updated_at": "2025-03-01T08:00:00+08:00",
+      "updated_at": "2025-03-02T08:00:00+08:00",
       "last_activity_at": "2025-02-27T12:55:03+08:00",
       "last_activity_editor": "vscode/1.97.1/",
       "assigning_team": {
@@ -158,9 +158,9 @@
       },
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "updated_at": "2025-03-01T08:00:00+08:00",
-      "last_activity_at": "2025-02-27T20:31:38+08:00",
-      "last_activity_editor": "JetBrains-RD/241.18034.76/copilot-intellij/1.5.30-231",
+      "updated_at": "2025-03-02T08:00:00+08:00",
+      "last_activity_at": "2025-03-01T19:23:20+08:00",
+      "last_activity_editor": "vscode/1.87.1/copilot/1.250.0",
       "assigning_team": {
         "name": "CSD",
         "id": 11906480,
@@ -202,9 +202,9 @@
       },
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "updated_at": "2025-03-01T08:00:00+08:00",
-      "last_activity_at": "2025-02-27T18:14:49+08:00",
-      "last_activity_editor": "JetBrains-RD/243.24978.27/copilot-intellij/1.5.35-242",
+      "updated_at": "2025-03-02T08:00:00+08:00",
+      "last_activity_at": "2025-03-01T18:42:01+08:00",
+      "last_activity_editor": "JetBrains-WS/243.25659.40/",
       "assigning_team": {
         "name": "UPD5",
         "id": 11906481,
@@ -246,7 +246,7 @@
       },
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "updated_at": "2025-03-01T08:00:00+08:00",
+      "updated_at": "2025-03-02T08:00:00+08:00",
       "last_activity_at": "2025-02-08T11:04:34+08:00",
       "last_activity_editor": "JetBrains-AI/242.23339.11.2421.12550806/",
       "assigning_team": {
@@ -290,9 +290,9 @@
       },
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "updated_at": "2025-03-01T08:00:00+08:00",
-      "last_activity_at": "2025-03-01T10:01:26+08:00",
-      "last_activity_editor": "vscode/1.96.2/copilot/1.254.0",
+      "updated_at": "2025-03-02T08:00:00+08:00",
+      "last_activity_at": "2025-03-02T11:11:47+08:00",
+      "last_activity_editor": "vscode/1.96.2/",
       "assigning_team": {
         "name": "Data",
         "id": 11831014,
@@ -334,7 +334,7 @@
       },
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "updated_at": "2025-03-01T08:00:00+08:00",
+      "updated_at": "2025-03-02T08:00:00+08:00",
       "last_activity_at": "2025-02-27T15:34:22+08:00",
       "last_activity_editor": "vscode/1.96.0/",
       "assigning_team": {
@@ -378,7 +378,7 @@
       },
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "updated_at": "2025-03-01T08:00:00+08:00",
+      "updated_at": "2025-03-02T08:00:00+08:00",
       "last_activity_at": "2025-02-27T11:34:29+08:00",
       "last_activity_editor": "vscode/1.98.0-insider/",
       "assigning_team": {
@@ -422,7 +422,7 @@
       },
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "updated_at": "2025-03-01T08:00:00+08:00",
+      "updated_at": "2025-03-02T08:00:00+08:00",
       "last_activity_at": "2025-02-26T15:01:10+08:00",
       "last_activity_editor": "vscode/1.89.1/copilot-chat/0.15.2",
       "assigning_team": {
@@ -466,7 +466,7 @@
       },
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "updated_at": "2025-03-01T08:00:00+08:00",
+      "updated_at": "2025-03-02T08:00:00+08:00",
       "last_activity_at": "2025-02-26T16:04:11+08:00",
       "last_activity_editor": "simulation-tests-editor/1.85/simulation-tests-plugin/2",
       "assigning_team": {
@@ -510,7 +510,7 @@
       },
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "updated_at": "2025-03-01T08:00:00+08:00",
+      "updated_at": "2025-03-02T08:00:00+08:00",
       "last_activity_at": "2025-02-20T11:12:32+08:00",
       "last_activity_editor": "vscode/1.97.2/copilot/1.272.0",
       "assigning_team": {
@@ -554,7 +554,7 @@
       },
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "updated_at": "2025-03-01T08:00:00+08:00",
+      "updated_at": "2025-03-02T08:00:00+08:00",
       "last_activity_at": "2025-02-24T16:44:58+08:00",
       "last_activity_editor": "vscode/1.97.2/copilot/1.272.0",
       "assigning_team": {
@@ -598,7 +598,7 @@
       },
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "updated_at": "2025-03-01T08:00:00+08:00",
+      "updated_at": "2025-03-02T08:00:00+08:00",
       "last_activity_at": "2025-02-26T15:01:41+08:00",
       "last_activity_editor": "vscode/1.89.1/copilot-chat/0.15.2",
       "assigning_team": {
@@ -642,7 +642,7 @@
       },
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "updated_at": "2025-03-01T08:00:00+08:00",
+      "updated_at": "2025-03-02T08:00:00+08:00",
       "last_activity_at": "2025-02-27T17:43:00+08:00",
       "last_activity_editor": "vscode/1.96.2/",
       "assigning_team": {
@@ -686,7 +686,7 @@
       },
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "updated_at": "2025-03-01T08:00:00+08:00",
+      "updated_at": "2025-03-02T08:00:00+08:00",
       "last_activity_at": "2025-02-27T18:23:39+08:00",
       "last_activity_editor": "vscode/1.97.2/",
       "assigning_team": {
@@ -730,9 +730,9 @@
       },
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "updated_at": "2025-03-01T08:00:00+08:00",
-      "last_activity_at": "2025-02-27T17:00:54+08:00",
-      "last_activity_editor": "vscode/1.97.2/copilot/1.275.0",
+      "updated_at": "2025-03-02T08:00:00+08:00",
+      "last_activity_at": "2025-03-02T11:54:51+08:00",
+      "last_activity_editor": "vscode/1.97.2/",
       "assigning_team": {
         "name": "Infrastructure",
         "id": 11828340,
@@ -774,7 +774,7 @@
       },
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "updated_at": "2025-03-01T08:00:00+08:00",
+      "updated_at": "2025-03-02T08:00:00+08:00",
       "last_activity_at": "2025-02-04T15:11:56+08:00",
       "last_activity_editor": "vscode/1.95.2/",
       "assigning_team": {
@@ -818,7 +818,7 @@
       },
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "updated_at": "2025-03-01T08:00:00+08:00",
+      "updated_at": "2025-03-02T08:00:00+08:00",
       "last_activity_at": "2025-02-27T17:13:50+08:00",
       "last_activity_editor": "VisualStudio/17.12.4/copilot-vs/17.12.53.23981",
       "assigning_team": {
@@ -863,8 +863,8 @@
       "pending_cancellation_date": null,
       "plan_type": "business",
       "updated_at": "2025-01-06T08:00:00+08:00",
-      "last_activity_at": "2025-02-27T17:00:16+08:00",
-      "last_activity_editor": "vscode/1.97.2/copilot/1.272.0"
+      "last_activity_at": "2025-03-01T19:19:45+08:00",
+      "last_activity_editor": "vscode/1.97.2/copilot/1.275.0"
     },
     {
       "created_at": "2024-06-28T11:11:18+08:00",
@@ -891,7 +891,7 @@
       },
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "updated_at": "2025-03-01T08:00:00+08:00",
+      "updated_at": "2025-03-02T08:00:00+08:00",
       "last_activity_at": "2025-02-28T13:14:15+08:00",
       "last_activity_editor": "visualstudio/17.12.35527.113/copilot-vs-chat/17.12.38.29086",
       "assigning_team": {
@@ -935,9 +935,9 @@
       },
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "updated_at": "2025-03-01T08:00:00+08:00",
-      "last_activity_at": "2025-02-27T19:21:54+08:00",
-      "last_activity_editor": "vscode/1.96.2/copilot/1.270.0",
+      "updated_at": "2025-03-02T08:00:00+08:00",
+      "last_activity_at": "2025-03-01T21:41:59+08:00",
+      "last_activity_editor": "VisualStudio/17.12.3/",
       "assigning_team": {
         "name": "CSD",
         "id": 11906480,
@@ -979,9 +979,9 @@
       },
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "updated_at": "2025-03-01T08:00:00+08:00",
-      "last_activity_at": "2025-03-01T10:20:23+08:00",
-      "last_activity_editor": "JetBrains-RD/241.19072.26/",
+      "updated_at": "2025-03-02T08:00:00+08:00",
+      "last_activity_at": "2025-03-01T13:32:20+08:00",
+      "last_activity_editor": "JetBrains-RD/241.19072.26/copilot-intellij/1.5.30-231",
       "assigning_team": {
         "name": "CSD",
         "id": 11906480,
@@ -1023,7 +1023,7 @@
       },
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "updated_at": "2025-03-01T08:00:00+08:00",
+      "updated_at": "2025-03-02T08:00:00+08:00",
       "last_activity_at": "2025-02-26T12:36:25+08:00",
       "last_activity_editor": "VisualStudio/17.12.5/",
       "assigning_team": {
@@ -1067,7 +1067,7 @@
       },
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "updated_at": "2025-03-01T08:00:00+08:00",
+      "updated_at": "2025-03-02T08:00:00+08:00",
       "last_activity_at": "2025-02-26T19:10:31+08:00",
       "last_activity_editor": "VisualStudio/17.12.3/copilot-vs/17.12.38.29086",
       "assigning_team": {
@@ -1111,7 +1111,7 @@
       },
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "updated_at": "2025-03-01T08:00:00+08:00",
+      "updated_at": "2025-03-02T08:00:00+08:00",
       "last_activity_at": "2025-02-27T13:31:54+08:00",
       "last_activity_editor": "visualstudio/17.13.35818.85/copilot-vs-chat/17.13.431.34963",
       "assigning_team": {
@@ -1155,7 +1155,7 @@
       },
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "updated_at": "2025-03-01T08:00:00+08:00",
+      "updated_at": "2025-03-02T08:00:00+08:00",
       "last_activity_at": "2025-03-01T10:11:26+08:00",
       "last_activity_editor": "vscode/1.97.2/copilot-chat/0.24.1",
       "assigning_team": {
@@ -1199,8 +1199,8 @@
       },
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "updated_at": "2025-03-01T08:00:00+08:00",
-      "last_activity_at": "2025-02-27T19:14:20+08:00",
+      "updated_at": "2025-03-02T08:00:00+08:00",
+      "last_activity_at": "2025-03-01T19:40:09+08:00",
       "last_activity_editor": "vscode/1.96.2/copilot/1.270.0",
       "assigning_team": {
         "name": "CSD",
@@ -1243,9 +1243,9 @@
       },
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "updated_at": "2025-03-01T08:00:00+08:00",
-      "last_activity_at": "2025-03-01T10:41:31+08:00",
-      "last_activity_editor": "VisualStudio/17.12.4/copilot-vs/17.12.53.23981",
+      "updated_at": "2025-03-02T08:00:00+08:00",
+      "last_activity_at": "2025-03-01T22:43:48+08:00",
+      "last_activity_editor": "visualstudio/17.12.35707.178/copilot-vs-chat/17.12.53.23981",
       "assigning_team": {
         "name": "CSD",
         "id": 11906480,
@@ -1287,7 +1287,7 @@
       },
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "updated_at": "2025-03-01T08:00:00+08:00",
+      "updated_at": "2025-03-02T08:00:00+08:00",
       "last_activity_at": "2025-02-27T16:23:23+08:00",
       "last_activity_editor": "vscode/1.94.2/copilot/1.250.0",
       "assigning_team": {
@@ -1331,8 +1331,8 @@
       },
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "updated_at": "2025-03-01T08:00:00+08:00",
-      "last_activity_at": "2025-02-27T17:34:27+08:00",
+      "updated_at": "2025-03-02T08:00:00+08:00",
+      "last_activity_at": "2025-03-01T20:10:33+08:00",
       "last_activity_editor": "visualstudio/17.12.35527.113/copilot-vs-chat/17.12.38.29086",
       "assigning_team": {
         "name": "CSD",
@@ -1375,7 +1375,7 @@
       },
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "updated_at": "2025-03-01T08:00:00+08:00",
+      "updated_at": "2025-03-02T08:00:00+08:00",
       "last_activity_at": "2025-02-27T15:04:09+08:00",
       "last_activity_editor": "visualstudio/17.12.35707.178/copilot-vs-chat/17.12.53.23981",
       "assigning_team": {
@@ -1419,7 +1419,7 @@
       },
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "updated_at": "2025-03-01T08:00:00+08:00",
+      "updated_at": "2025-03-02T08:00:00+08:00",
       "last_activity_at": "2025-02-27T18:30:46+08:00",
       "last_activity_editor": "visualstudio/17.13.35806.99/copilot-vs-chat/17.13.430.18484",
       "assigning_team": {
@@ -1463,7 +1463,7 @@
       },
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "updated_at": "2025-03-01T08:00:00+08:00",
+      "updated_at": "2025-03-02T08:00:00+08:00",
       "last_activity_at": "2025-02-27T14:50:19+08:00",
       "last_activity_editor": "visualstudio/17.13.35806.99/copilot-vs-chat/17.13.430.18484",
       "assigning_team": {
@@ -1507,7 +1507,7 @@
       },
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "updated_at": "2025-03-01T08:00:00+08:00",
+      "updated_at": "2025-03-02T08:00:00+08:00",
       "last_activity_at": "2025-02-27T17:00:37+08:00",
       "last_activity_editor": "visualstudio/17.13.35818.85/copilot-vs-chat/17.13.431.34963",
       "assigning_team": {
@@ -1551,8 +1551,8 @@
       },
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "updated_at": "2025-03-01T08:00:00+08:00",
-      "last_activity_at": "2025-03-01T10:43:04+08:00",
+      "updated_at": "2025-03-02T08:00:00+08:00",
+      "last_activity_at": "2025-03-01T23:14:14+08:00",
       "last_activity_editor": "JetBrains-PS/233.14475.35/copilot-intellij/1.5.30-231",
       "assigning_team": {
         "name": "CSD",
@@ -1595,7 +1595,7 @@
       },
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "updated_at": "2025-03-01T08:00:00+08:00",
+      "updated_at": "2025-03-02T08:00:00+08:00",
       "last_activity_at": "2025-02-27T18:34:01+08:00",
       "last_activity_editor": "JetBrains-RD/233.14475.66/copilot-intellij/1.5.30-231",
       "assigning_team": {
@@ -1639,7 +1639,7 @@
       },
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "updated_at": "2025-03-01T08:00:00+08:00",
+      "updated_at": "2025-03-02T08:00:00+08:00",
       "last_activity_at": "2025-02-25T12:02:36+08:00",
       "last_activity_editor": "vscode/1.97.2/copilot/1.272.0",
       "assigning_team": {
@@ -1683,7 +1683,7 @@
       },
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "updated_at": "2025-03-01T08:00:00+08:00",
+      "updated_at": "2025-03-02T08:00:00+08:00",
       "last_activity_at": "2025-02-27T10:14:46+08:00",
       "last_activity_editor": "vscode/1.97.2/copilot/1.276.1398",
       "assigning_team": {
@@ -1727,7 +1727,7 @@
       },
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "updated_at": "2025-03-01T08:00:00+08:00",
+      "updated_at": "2025-03-02T08:00:00+08:00",
       "last_activity_at": "2025-02-26T16:43:10+08:00",
       "last_activity_editor": "VisualStudio/17.13.0/copilot-vs/17.13.430.18484",
       "assigning_team": {
@@ -1771,7 +1771,7 @@
       },
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "updated_at": "2025-03-01T08:00:00+08:00",
+      "updated_at": "2025-03-02T08:00:00+08:00",
       "last_activity_at": "2025-02-27T11:12:00+08:00",
       "last_activity_editor": "vscode/1.96.4/copilot-chat/0.23.2",
       "assigning_team": {
@@ -1815,7 +1815,7 @@
       },
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "updated_at": "2025-03-01T08:00:00+08:00",
+      "updated_at": "2025-03-02T08:00:00+08:00",
       "last_activity_at": "2025-02-26T10:42:11+08:00",
       "last_activity_editor": "visualstudio/17.12.35521.163/copilot-vs-chat/17.12.38.29086",
       "assigning_team": {
@@ -1859,7 +1859,7 @@
       },
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "updated_at": "2025-03-01T08:00:00+08:00",
+      "updated_at": "2025-03-02T08:00:00+08:00",
       "last_activity_at": "2025-02-27T17:15:39+08:00",
       "last_activity_editor": "VisualStudio/17.12.5/",
       "assigning_team": {
@@ -1903,7 +1903,7 @@
       },
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "updated_at": "2025-03-01T08:00:00+08:00",
+      "updated_at": "2025-03-02T08:00:00+08:00",
       "last_activity_at": "2025-02-28T10:41:33+08:00",
       "last_activity_editor": "VisualStudio/17.12.3/copilot-vs/17.12.38.29086",
       "assigning_team": {
@@ -1947,7 +1947,7 @@
       },
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "updated_at": "2025-03-01T08:00:00+08:00",
+      "updated_at": "2025-03-02T08:00:00+08:00",
       "last_activity_at": "2025-02-27T14:02:24+08:00",
       "last_activity_editor": "vscode/1.96.4/copilot/1.270.0",
       "assigning_team": {
@@ -1991,7 +1991,7 @@
       },
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "updated_at": "2025-03-01T08:00:00+08:00",
+      "updated_at": "2025-03-02T08:00:00+08:00",
       "last_activity_at": "2025-02-28T17:44:26+08:00",
       "last_activity_editor": "JetBrains-DB/243.23654.183/copilot-intellij/1.5.32-242",
       "assigning_team": {
@@ -2035,7 +2035,7 @@
       },
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "updated_at": "2025-03-01T08:00:00+08:00",
+      "updated_at": "2025-03-02T08:00:00+08:00",
       "last_activity_at": "2025-02-25T18:03:23+08:00",
       "last_activity_editor": "vscode/1.97.0/",
       "assigning_team": {
@@ -2079,7 +2079,7 @@
       },
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "updated_at": "2025-03-01T08:00:00+08:00",
+      "updated_at": "2025-03-02T08:00:00+08:00",
       "last_activity_at": "2025-03-01T10:42:51+08:00",
       "last_activity_editor": "VisualStudio/17.12.4/",
       "assigning_team": {
@@ -2123,7 +2123,7 @@
       },
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "updated_at": "2025-03-01T08:00:00+08:00",
+      "updated_at": "2025-03-02T08:00:00+08:00",
       "last_activity_at": null,
       "last_activity_editor": null,
       "assigning_team": {
@@ -2167,9 +2167,9 @@
       },
       "pending_cancellation_date": null,
       "plan_type": "business",
-      "updated_at": "2025-03-01T08:00:00+08:00",
-      "last_activity_at": "2025-02-28T20:53:11+08:00",
-      "last_activity_editor": "JetBrains-PY/213.6461.77/copilot-intellij/1.2.9.2684",
+      "updated_at": "2025-03-02T08:00:00+08:00",
+      "last_activity_at": "2025-03-01T19:03:22+08:00",
+      "last_activity_editor": "JetBrains-PY/213.6461.77/",
       "assigning_team": {
         "name": "CSD",
         "id": 11906480,
